@@ -1,3 +1,3 @@
-# golly-test-data
+# golly-pseudo-data
 
-Test season/postseason data for Golly
+The Gold Mine for the Pseudo Cup.

@@ -6,5 +6,5 @@ all:
 	@echo "no default make rule defined"
 
 release_mainx:
-	@echo "Releasing current branch $(CB) to main"
+	@echo "Releasing current branch $(CB) to mainx"
 	scripts/release.sh $(CB) mainx

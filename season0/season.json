@@ -1,10 +1,10 @@
 [
     [
         {
-            "team1Name": "Phoenix Freshrolls",
-            "team1Abbr": "FF",
-            "team2Name": "Elko Astronauts",
-            "team2Abbr": "EA",
+            "team1Name": "Hayward Pipelines",
+            "team1Abbr": "HP",
+            "team2Name": "Freedom Fries",
+            "team2Abbr": "FF",
             "season": 0,
             "day": 0,
             "id": "23936ec5-3698-4190-a1c1-77c4f95b105c",
@@ -39,10 +39,10 @@
             ]
         },
         {
-            "team1Name": "Salt Lake Turbulence",
-            "team1Abbr": "SLC",
-            "team2Name": "Long Beach Flightless Birds",
-            "team2Abbr": "LBFB",
+            "team1Name": "Boulder Creek Cardsharps",
+            "team1Abbr": "BCC",
+            "team2Name": "Davenport Cliff Divers",
+            "team2Abbr": "DCD",
             "season": 0,
             "day": 0,
             "id": "2f7aef31-bc5e-449d-8a11-d628fc257e57",
@@ -77,10 +77,10 @@
             ]
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team1Abbr": "TB",
-            "team2Name": "Jersey OSHA Violations",
-            "team2Abbr": "OSHA",
+            "team1Name": "Sutro Tower",
+            "team1Abbr": "ST",
+            "team2Name": "San Jose Avionics",
+            "team2Abbr": "SJA",
             "season": 0,
             "day": 0,
             "id": "8ad81751-6197-4e5a-bcf4-9b164399be0f",
@@ -115,10 +115,10 @@
             ]
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team1Abbr": "FWPT",
-            "team2Name": "Seattle Sneakers",
-            "team2Abbr": "SS",
+            "team1Name": "San Gregorio Sand Crabs",
+            "team1Abbr": "SGSC",
+            "team2Name": "Seaside Swashbucklers",
+            "team2Abbr": "SSS",
             "season": 0,
             "day": 0,
             "id": "08c2bab8-21df-4232-ad37-a521994d379f",
@@ -153,10 +153,10 @@
             ]
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team1Abbr": "BTX",
-            "team2Name": "San Diego Balloon Animals",
-            "team2Abbr": "SDBA",
+            "team1Name": "Aptos Investigators",
+            "team1Abbr": "AI",
+            "team2Name": "Mountain View Miners",
+            "team2Abbr": "MVM",
             "season": 0,
             "day": 0,
             "id": "a118b334-b0c4-437e-9990-ab72ff1a9382",
@@ -191,10 +191,10 @@
             ]
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team1Abbr": "DET",
-            "team2Name": "Alewife Arsonists",
-            "team2Abbr": "AA",
+            "team1Name": "Moss Landing Daredevils",
+            "team1Abbr": "DD",
+            "team2Name": "Richmond Slicks",
+            "team2Abbr": "RS",
             "season": 0,
             "day": 0,
             "id": "4c37f23d-12ca-49dd-a24e-88fce6dd2e42",
@@ -229,10 +229,10 @@
             ]
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team1Abbr": "SFBS",
-            "team2Name": "Boylston Boogers",
-            "team2Abbr": "BB",
+            "team1Name": "Caramel Yacht Club",
+            "team1Abbr": "CYC",
+            "team2Name": "Vallejo Barnstormers",
+            "team2Abbr": "VB",
             "season": 0,
             "day": 0,
             "id": "2c2f50b7-e00f-47a7-922c-e41f4186154c",
@@ -267,10 +267,10 @@
             ]
         },
         {
-            "team1Name": "Albuquerque Solarpunks",
-            "team1Abbr": "ABQ",
-            "team2Name": "Orlando Business Majors",
-            "team2Abbr": "ORL",
+            "team1Name": "Berkeley Brutalists",
+            "team1Abbr": "BBR",
+            "team2Name": "Sausalito Bouncy Castles",
+            "team2Abbr": "SBC",
             "season": 0,
             "day": 0,
             "id": "1ef73a72-175c-4389-adf9-305474a9cbc6",
@@ -305,10 +305,10 @@
             ]
         },
         {
-            "team1Name": "Sugar Grove Eavesdroppers",
-            "team1Abbr": "SGE",
-            "team2Name": "Milwaukee Flamingos",
-            "team2Abbr": "MILF",
+            "team1Name": "Santa Cruz Bananas",
+            "team1Abbr": "SCB",
+            "team2Name": "Monterey Meterologists",
+            "team2Abbr": "MM",
             "season": 0,
             "day": 0,
             "id": "45f99f79-8586-4ac6-b758-48f28252b92e",
@@ -343,10 +343,10 @@
             ]
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team1Abbr": "DECO",
-            "team2Name": "Sacramento Boot Lickers",
-            "team2Abbr": "SAC",
+            "team1Name": "Sand City Sidewinders",
+            "team1Abbr": "SCS",
+            "team2Name": "Oakland Bees",
+            "team2Abbr": "OB",
             "season": 0,
             "day": 0,
             "id": "4580dbae-4d2e-418c-ae8e-69231b195fa5",
@@ -383,10 +383,10 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
-            "team1Abbr": "BTX",
-            "team2Name": "Salt Lake Turbulence",
-            "team2Abbr": "SLC",
+            "team1Name": "Aptos Investigators",
+            "team1Abbr": "AI",
+            "team2Name": "Boulder Creek Cardsharps",
+            "team2Abbr": "BCC",
             "season": 0,
             "day": 1,
             "id": "3431b74b-ce1c-46c7-90a6-ebfe3c259d24",
@@ -421,10 +421,10 @@
             ]
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team1Abbr": "OSHA",
-            "team2Name": "San Diego Balloon Animals",
-            "team2Abbr": "SDBA",
+            "team1Name": "San Jose Avionics",
+            "team1Abbr": "SJA",
+            "team2Name": "Mountain View Miners",
+            "team2Abbr": "MVM",
             "season": 0,
             "day": 1,
             "id": "03c8cfac-f303-4910-873d-8fd2c8f3e9f1",
@@ -459,10 +459,10 @@
             ]
         },
         {
-            "team1Name": "Phoenix Freshrolls",
-            "team1Abbr": "FF",
-            "team2Name": "Tucson Butchers",
-            "team2Abbr": "TB",
+            "team1Name": "Hayward Pipelines",
+            "team1Abbr": "HP",
+            "team2Name": "Sutro Tower",
+            "team2Abbr": "ST",
             "season": 0,
             "day": 1,
             "id": "9fda24e7-ea9f-43b4-bcea-d7f1b858611e",
@@ -497,10 +497,10 @@
             ]
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team1Abbr": "LBFB",
-            "team2Name": "Ft. Worth Piano Tuners",
-            "team2Abbr": "FWPT",
+            "team1Name": "Davenport Cliff Divers",
+            "team1Abbr": "DCD",
+            "team2Name": "San Gregorio Sand Crabs",
+            "team2Abbr": "SGSC",
             "season": 0,
             "day": 1,
             "id": "47e93114-2005-4a74-8fc8-86382baae3a3",
@@ -535,10 +535,10 @@
             ]
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team1Abbr": "EA",
-            "team2Name": "Seattle Sneakers",
-            "team2Abbr": "SS",
+            "team1Name": "Freedom Fries",
+            "team1Abbr": "FF",
+            "team2Name": "Seaside Swashbucklers",
+            "team2Abbr": "SSS",
             "season": 0,
             "day": 1,
             "id": "f4c6e6d1-d62c-413e-a923-0b6afeae2e11",
@@ -573,10 +573,10 @@
             ]
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team1Abbr": "SAC",
-            "team2Name": "Orlando Business Majors",
-            "team2Abbr": "ORL",
+            "team1Name": "Oakland Bees",
+            "team1Abbr": "OB",
+            "team2Name": "Sausalito Bouncy Castles",
+            "team2Abbr": "SBC",
             "season": 0,
             "day": 1,
             "id": "f4235bf1-61be-432f-8dfb-536d2f2dd7f7",
@@ -611,10 +611,10 @@
             ]
         },
         {
-            "team1Name": "Sugar Grove Eavesdroppers",
-            "team1Abbr": "SGE",
-            "team2Name": "Delaware Corporate Shells",
-            "team2Abbr": "DECO",
+            "team1Name": "Santa Cruz Bananas",
+            "team1Abbr": "SCB",
+            "team2Name": "Sand City Sidewinders",
+            "team2Abbr": "SCS",
             "season": 0,
             "day": 1,
             "id": "cc566162-6681-4750-991a-e73871d3dad6",
@@ -649,10 +649,10 @@
             ]
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team1Abbr": "MILF",
-            "team2Name": "San Francisco Boat Shoes",
-            "team2Abbr": "SFBS",
+            "team1Name": "Monterey Meterologists",
+            "team1Abbr": "MM",
+            "team2Name": "Caramel Yacht Club",
+            "team2Abbr": "CYC",
             "season": 0,
             "day": 1,
             "id": "20aea32b-63c9-48cd-85dc-d3b2154a3675",
@@ -687,10 +687,10 @@
             ]
         },
         {
-            "team1Name": "Boylston Boogers",
-            "team1Abbr": "BB",
-            "team2Name": "Detroit Grape Chews",
-            "team2Abbr": "DET",
+            "team1Name": "Vallejo Barnstormers",
+            "team1Abbr": "VB",
+            "team2Name": "Moss Landing Daredevils",
+            "team2Abbr": "DD",
             "season": 0,
             "day": 1,
             "id": "af3fdd5c-5064-46b5-8d64-12a18fcace01",
@@ -725,10 +725,10 @@
             ]
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team1Abbr": "AA",
-            "team2Name": "Albuquerque Solarpunks",
-            "team2Abbr": "ABQ",
+            "team1Name": "Richmond Slicks",
+            "team1Abbr": "RS",
+            "team2Name": "Berkeley Brutalists",
+            "team2Abbr": "BBR",
             "season": 0,
             "day": 1,
             "id": "e654c3d0-d020-494f-b34d-f0dc8f9fabd7",
@@ -765,10 +765,10 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
-            "team1Abbr": "BTX",
-            "team2Name": "Ft. Worth Piano Tuners",
-            "team2Abbr": "FWPT",
+            "team1Name": "Aptos Investigators",
+            "team1Abbr": "AI",
+            "team2Name": "San Gregorio Sand Crabs",
+            "team2Abbr": "SGSC",
             "season": 0,
             "day": 2,
             "id": "d733360a-7302-410a-883f-f4b0ee5e17de",
@@ -803,10 +803,10 @@
             ]
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team1Abbr": "EA",
-            "team2Name": "Salt Lake Turbulence",
-            "team2Abbr": "SLC",
+            "team1Name": "Freedom Fries",
+            "team1Abbr": "FF",
+            "team2Name": "Boulder Creek Cardsharps",
+            "team2Abbr": "BCC",
             "season": 0,
             "day": 2,
             "id": "71a9ab2e-27da-470d-ba6b-119c62aef982",
@@ -841,10 +841,10 @@
             ]
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team1Abbr": "SS",
-            "team2Name": "Tucson Butchers",
-            "team2Abbr": "TB",
+            "team1Name": "Seaside Swashbucklers",
+            "team1Abbr": "SSS",
+            "team2Name": "Sutro Tower",
+            "team2Abbr": "ST",
             "season": 0,
             "day": 2,
             "id": "b4b0314d-7ccb-44df-9816-ff2a8373e393",
@@ -879,10 +879,10 @@
             ]
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team1Abbr": "LBFB",
-            "team2Name": "San Diego Balloon Animals",
-            "team2Abbr": "SDBA",
+            "team1Name": "Davenport Cliff Divers",
+            "team1Abbr": "DCD",
+            "team2Name": "Mountain View Miners",
+            "team2Abbr": "MVM",
             "season": 0,
             "day": 2,
             "id": "6a599645-d4f5-4c3c-b075-5afdd068d566",
@@ -917,10 +917,10 @@
             ]
         },
         {
-            "team1Name": "Phoenix Freshrolls",
-            "team1Abbr": "FF",
-            "team2Name": "Jersey OSHA Violations",
-            "team2Abbr": "OSHA",
+            "team1Name": "Hayward Pipelines",
+            "team1Abbr": "HP",
+            "team2Name": "San Jose Avionics",
+            "team2Abbr": "SJA",
             "season": 0,
             "day": 2,
             "id": "067d0b7e-5b28-4661-a09b-9f053a7b0969",
@@ -955,10 +955,10 @@
             ]
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team1Abbr": "DET",
-            "team2Name": "Orlando Business Majors",
-            "team2Abbr": "ORL",
+            "team1Name": "Moss Landing Daredevils",
+            "team1Abbr": "DD",
+            "team2Name": "Sausalito Bouncy Castles",
+            "team2Abbr": "SBC",
             "season": 0,
             "day": 2,
             "id": "beee5b0b-ad37-4d05-ae69-8023e9d2ea0c",
@@ -993,10 +993,10 @@
             ]
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team1Abbr": "SAC",
-            "team2Name": "Milwaukee Flamingos",
-            "team2Abbr": "MILF",
+            "team1Name": "Oakland Bees",
+            "team1Abbr": "OB",
+            "team2Name": "Monterey Meterologists",
+            "team2Abbr": "MM",
             "season": 0,
             "day": 2,
             "id": "3bbcb6f1-3574-43ba-8f4b-24058bf5caf7",
@@ -1031,10 +1031,10 @@
             ]
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team1Abbr": "AA",
-            "team2Name": "Sugar Grove Eavesdroppers",
-            "team2Abbr": "SGE",
+            "team1Name": "Richmond Slicks",
+            "team1Abbr": "RS",
+            "team2Name": "Santa Cruz Bananas",
+            "team2Abbr": "SCB",
             "season": 0,
             "day": 2,
             "id": "e9f474f2-580b-43bb-963d-83590d9d505f",
@@ -1069,10 +1069,10 @@
             ]
         },
         {
-            "team1Name": "Boylston Boogers",
-            "team1Abbr": "BB",
-            "team2Name": "Delaware Corporate Shells",
-            "team2Abbr": "DECO",
+            "team1Name": "Vallejo Barnstormers",
+            "team1Abbr": "VB",
+            "team2Name": "Sand City Sidewinders",
+            "team2Abbr": "SCS",
             "season": 0,
             "day": 2,
             "id": "80f1b33d-0352-45fa-a34f-41b41f849ee5",
@@ -1107,10 +1107,10 @@
             ]
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team1Abbr": "SFBS",
-            "team2Name": "Albuquerque Solarpunks",
-            "team2Abbr": "ABQ",
+            "team1Name": "Caramel Yacht Club",
+            "team1Abbr": "CYC",
+            "team2Name": "Berkeley Brutalists",
+            "team2Abbr": "BBR",
             "season": 0,
             "day": 2,
             "id": "7169774a-cddf-4ffd-ac7e-2783d2412c41",
@@ -1147,10 +1147,10 @@
     ],
     [
         {
-            "team1Name": "Seattle Sneakers",
-            "team1Abbr": "SS",
-            "team2Name": "Baltimore Texas",
-            "team2Abbr": "BTX",
+            "team1Name": "Seaside Swashbucklers",
+            "team1Abbr": "SSS",
+            "team2Name": "Aptos Investigators",
+            "team2Abbr": "AI",
             "season": 0,
             "day": 3,
             "id": "83c3db73-86d7-4941-8f1d-9dba373c8feb",
@@ -1185,10 +1185,10 @@
             ]
         },
         {
-            "team1Name": "Phoenix Freshrolls",
-            "team1Abbr": "FF",
-            "team2Name": "Long Beach Flightless Birds",
-            "team2Abbr": "LBFB",
+            "team1Name": "Hayward Pipelines",
+            "team1Abbr": "HP",
+            "team2Name": "Davenport Cliff Divers",
+            "team2Abbr": "DCD",
             "season": 0,
             "day": 3,
             "id": "05ffc10b-a0ec-45d5-9c15-9dafba9fbdca",
@@ -1223,10 +1223,10 @@
             ]
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team1Abbr": "EA",
-            "team2Name": "Ft. Worth Piano Tuners",
-            "team2Abbr": "FWPT",
+            "team1Name": "Freedom Fries",
+            "team1Abbr": "FF",
+            "team2Name": "San Gregorio Sand Crabs",
+            "team2Abbr": "SGSC",
             "season": 0,
             "day": 3,
             "id": "317b4130-330b-4cd0-8d92-403a1fb77cd0",
@@ -1261,10 +1261,10 @@
             ]
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team1Abbr": "TB",
-            "team2Name": "San Diego Balloon Animals",
-            "team2Abbr": "SDBA",
+            "team1Name": "Sutro Tower",
+            "team1Abbr": "ST",
+            "team2Name": "Mountain View Miners",
+            "team2Abbr": "MVM",
             "season": 0,
             "day": 3,
             "id": "c6811181-7def-4f0d-b742-cd7f9bd60b33",
@@ -1299,10 +1299,10 @@
             ]
         },
         {
-            "team1Name": "Salt Lake Turbulence",
-            "team1Abbr": "SLC",
-            "team2Name": "Jersey OSHA Violations",
-            "team2Abbr": "OSHA",
+            "team1Name": "Boulder Creek Cardsharps",
+            "team1Abbr": "BCC",
+            "team2Name": "San Jose Avionics",
+            "team2Abbr": "SJA",
             "season": 0,
             "day": 3,
             "id": "588e4760-8889-440e-9b9e-57c341ef4391",
@@ -1337,10 +1337,10 @@
             ]
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team1Abbr": "SAC",
-            "team2Name": "Boylston Boogers",
-            "team2Abbr": "BB",
+            "team1Name": "Oakland Bees",
+            "team1Abbr": "OB",
+            "team2Name": "Vallejo Barnstormers",
+            "team2Abbr": "VB",
             "season": 0,
             "day": 3,
             "id": "6718b234-18dc-48e4-a242-b4c8fa706df5",
@@ -1375,10 +1375,10 @@
             ]
         },
         {
-            "team1Name": "Sugar Grove Eavesdroppers",
-            "team1Abbr": "SGE",
-            "team2Name": "San Francisco Boat Shoes",
-            "team2Abbr": "SFBS",
+            "team1Name": "Santa Cruz Bananas",
+            "team1Abbr": "SCB",
+            "team2Name": "Caramel Yacht Club",
+            "team2Abbr": "CYC",
             "season": 0,
             "day": 3,
             "id": "6a0c416a-6c93-4202-8149-5427aaa43e5b",
@@ -1413,10 +1413,10 @@
             ]
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team1Abbr": "ORL",
-            "team2Name": "Detroit Grape Chews",
-            "team2Abbr": "DET",
+            "team1Name": "Sausalito Bouncy Castles",
+            "team1Abbr": "SBC",
+            "team2Name": "Moss Landing Daredevils",
+            "team2Abbr": "DD",
             "season": 0,
             "day": 3,
             "id": "fa371070-4f86-4704-8562-89f36684e940",
@@ -1451,10 +1451,10 @@
             ]
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team1Abbr": "AA",
-            "team2Name": "Albuquerque Solarpunks",
-            "team2Abbr": "ABQ",
+            "team1Name": "Richmond Slicks",
+            "team1Abbr": "RS",
+            "team2Name": "Berkeley Brutalists",
+            "team2Abbr": "BBR",
             "season": 0,
             "day": 3,
             "id": "43426f0e-a4ab-4108-a790-b033334b1e49",
@@ -1489,10 +1489,10 @@
             ]
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team1Abbr": "MILF",
-            "team2Name": "Delaware Corporate Shells",
-            "team2Abbr": "DECO",
+            "team1Name": "Monterey Meterologists",
+            "team1Abbr": "MM",
+            "team2Name": "Sand City Sidewinders",
+            "team2Abbr": "SCS",
             "season": 0,
             "day": 3,
             "id": "db81b5ea-9e54-4040-9089-164b6e5911ff",
@@ -1529,10 +1529,10 @@
     ],
     [
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team1Abbr": "FWPT",
-            "team2Name": "Baltimore Texas",
-            "team2Abbr": "BTX",
+            "team1Name": "San Gregorio Sand Crabs",
+            "team1Abbr": "SGSC",
+            "team2Name": "Aptos Investigators",
+            "team2Abbr": "AI",
             "season": 0,
             "day": 4,
             "id": "87993869-612b-4351-80fa-3ca194458f95",
@@ -1567,10 +1567,10 @@
             ]
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team1Abbr": "EA",
-            "team2Name": "Salt Lake Turbulence",
-            "team2Abbr": "SLC",
+            "team1Name": "Freedom Fries",
+            "team1Abbr": "FF",
+            "team2Name": "Boulder Creek Cardsharps",
+            "team2Abbr": "BCC",
             "season": 0,
             "day": 4,
             "id": "5303872b-c200-486d-b7a8-81474af38a1a",
@@ -1605,10 +1605,10 @@
             ]
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team1Abbr": "SS",
-            "team2Name": "Long Beach Flightless Birds",
-            "team2Abbr": "LBFB",
+            "team1Name": "Seaside Swashbucklers",
+            "team1Abbr": "SSS",
+            "team2Name": "Davenport Cliff Divers",
+            "team2Abbr": "DCD",
             "season": 0,
             "day": 4,
             "id": "2be9c697-0c61-4410-b1e3-4e29284abc68",
@@ -1643,10 +1643,10 @@
             ]
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team1Abbr": "OSHA",
-            "team2Name": "Tucson Butchers",
-            "team2Abbr": "TB",
+            "team1Name": "San Jose Avionics",
+            "team1Abbr": "SJA",
+            "team2Name": "Sutro Tower",
+            "team2Abbr": "ST",
             "season": 0,
             "day": 4,
             "id": "a964221c-7c49-46ca-aa59-8dd7e7c7c55a",
@@ -1681,10 +1681,10 @@
             ]
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team1Abbr": "SDBA",
-            "team2Name": "Phoenix Freshrolls",
-            "team2Abbr": "FF",
+            "team1Name": "Mountain View Miners",
+            "team1Abbr": "MVM",
+            "team2Name": "Hayward Pipelines",
+            "team2Abbr": "HP",
             "season": 0,
             "day": 4,
             "id": "4bd8dbbc-b705-4c6c-af00-0c7c6e98fac5",
@@ -1719,10 +1719,10 @@
             ]
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team1Abbr": "DECO",
-            "team2Name": "Albuquerque Solarpunks",
-            "team2Abbr": "ABQ",
+            "team1Name": "Sand City Sidewinders",
+            "team1Abbr": "SCS",
+            "team2Name": "Berkeley Brutalists",
+            "team2Abbr": "BBR",
             "season": 0,
             "day": 4,
             "id": "9ac7e49e-8baa-4f35-8f72-078fa27b1eff",
@@ -1757,10 +1757,10 @@
             ]
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team1Abbr": "DET",
-            "team2Name": "Sacramento Boot Lickers",
-            "team2Abbr": "SAC",
+            "team1Name": "Moss Landing Daredevils",
+            "team1Abbr": "DD",
+            "team2Name": "Oakland Bees",
+            "team2Abbr": "OB",
             "season": 0,
             "day": 4,
             "id": "10c854ef-c5f9-4ede-b8e6-f864e65c293f",
@@ -1795,10 +1795,10 @@
             ]
         },
         {
-            "team1Name": "Sugar Grove Eavesdroppers",
-            "team1Abbr": "SGE",
-            "team2Name": "Orlando Business Majors",
-            "team2Abbr": "ORL",
+            "team1Name": "Santa Cruz Bananas",
+            "team1Abbr": "SCB",
+            "team2Name": "Sausalito Bouncy Castles",
+            "team2Abbr": "SBC",
             "season": 0,
             "day": 4,
             "id": "3f00a913-1c19-4c91-9a64-a1927c7ca181",
@@ -1833,10 +1833,10 @@
             ]
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team1Abbr": "SFBS",
-            "team2Name": "Alewife Arsonists",
-            "team2Abbr": "AA",
+            "team1Name": "Caramel Yacht Club",
+            "team1Abbr": "CYC",
+            "team2Name": "Richmond Slicks",
+            "team2Abbr": "RS",
             "season": 0,
             "day": 4,
             "id": "f44f2e80-53c1-4088-9ccc-968c0857150d",
@@ -1871,10 +1871,10 @@
             ]
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team1Abbr": "MILF",
-            "team2Name": "Boylston Boogers",
-            "team2Abbr": "BB",
+            "team1Name": "Monterey Meterologists",
+            "team1Abbr": "MM",
+            "team2Name": "Vallejo Barnstormers",
+            "team2Abbr": "VB",
             "season": 0,
             "day": 4,
             "id": "02f70e26-c115-4755-8481-5b91b8aa9ba3",
@@ -1911,10 +1911,10 @@
     ],
     [
         {
-            "team1Name": "Phoenix Freshrolls",
-            "team1Abbr": "FF",
-            "team2Name": "Salt Lake Turbulence",
-            "team2Abbr": "SLC",
+            "team1Name": "Hayward Pipelines",
+            "team1Abbr": "HP",
+            "team2Name": "Boulder Creek Cardsharps",
+            "team2Abbr": "BCC",
             "season": 0,
             "day": 5,
             "id": "af7838f5-9bf7-4e1c-ad5b-9745c7c388e8",
@@ -1949,10 +1949,10 @@
             ]
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team1Abbr": "SS",
-            "team2Name": "Tucson Butchers",
-            "team2Abbr": "TB",
+            "team1Name": "Seaside Swashbucklers",
+            "team1Abbr": "SSS",
+            "team2Name": "Sutro Tower",
+            "team2Abbr": "ST",
             "season": 0,
             "day": 5,
             "id": "a7182794-df4f-49b5-9f67-fddc8e082b2b",
@@ -1987,10 +1987,10 @@
             ]
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team1Abbr": "EA",
-            "team2Name": "Long Beach Flightless Birds",
-            "team2Abbr": "LBFB",
+            "team1Name": "Freedom Fries",
+            "team1Abbr": "FF",
+            "team2Name": "Davenport Cliff Divers",
+            "team2Abbr": "DCD",
             "season": 0,
             "day": 5,
             "id": "fdd5574a-2475-4f96-b12b-0577d2566125",
@@ -2025,10 +2025,10 @@
             ]
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team1Abbr": "BTX",
-            "team2Name": "San Diego Balloon Animals",
-            "team2Abbr": "SDBA",
+            "team1Name": "Aptos Investigators",
+            "team1Abbr": "AI",
+            "team2Name": "Mountain View Miners",
+            "team2Abbr": "MVM",
             "season": 0,
             "day": 5,
             "id": "e298b9b6-044c-4e12-a905-bdf141444e50",
@@ -2063,10 +2063,10 @@
             ]
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team1Abbr": "OSHA",
-            "team2Name": "Ft. Worth Piano Tuners",
-            "team2Abbr": "FWPT",
+            "team1Name": "San Jose Avionics",
+            "team1Abbr": "SJA",
+            "team2Name": "San Gregorio Sand Crabs",
+            "team2Abbr": "SGSC",
             "season": 0,
             "day": 5,
             "id": "a8429de4-7e5b-4402-9431-016f34d76963",
@@ -2101,10 +2101,10 @@
             ]
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team1Abbr": "DECO",
-            "team2Name": "Albuquerque Solarpunks",
-            "team2Abbr": "ABQ",
+            "team1Name": "Sand City Sidewinders",
+            "team1Abbr": "SCS",
+            "team2Name": "Berkeley Brutalists",
+            "team2Abbr": "BBR",
             "season": 0,
             "day": 5,
             "id": "141a2e2e-7137-4297-8af1-4519e67c5c06",
@@ -2139,10 +2139,10 @@
             ]
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team1Abbr": "DET",
-            "team2Name": "Orlando Business Majors",
-            "team2Abbr": "ORL",
+            "team1Name": "Moss Landing Daredevils",
+            "team1Abbr": "DD",
+            "team2Name": "Sausalito Bouncy Castles",
+            "team2Abbr": "SBC",
             "season": 0,
             "day": 5,
             "id": "fcffa0a9-f1b4-4e12-93c8-6538863f7257",
@@ -2177,10 +2177,10 @@
             ]
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team1Abbr": "SAC",
-            "team2Name": "San Francisco Boat Shoes",
-            "team2Abbr": "SFBS",
+            "team1Name": "Oakland Bees",
+            "team1Abbr": "OB",
+            "team2Name": "Caramel Yacht Club",
+            "team2Abbr": "CYC",
             "season": 0,
             "day": 5,
             "id": "f52ef087-1efe-4609-9460-4da3a784ea4d",
@@ -2215,10 +2215,10 @@
             ]
         },
         {
-            "team1Name": "Boylston Boogers",
-            "team1Abbr": "BB",
-            "team2Name": "Milwaukee Flamingos",
-            "team2Abbr": "MILF",
+            "team1Name": "Vallejo Barnstormers",
+            "team1Abbr": "VB",
+            "team2Name": "Monterey Meterologists",
+            "team2Abbr": "MM",
             "season": 0,
             "day": 5,
             "id": "90a2cb22-e2b7-4fb0-bdc1-f834bd11b78e",
@@ -2253,10 +2253,10 @@
             ]
         },
         {
-            "team1Name": "Sugar Grove Eavesdroppers",
-            "team1Abbr": "SGE",
-            "team2Name": "Alewife Arsonists",
-            "team2Abbr": "AA",
+            "team1Name": "Santa Cruz Bananas",
+            "team1Abbr": "SCB",
+            "team2Name": "Richmond Slicks",
+            "team2Abbr": "RS",
             "season": 0,
             "day": 5,
             "id": "720a9024-5764-40fc-97aa-c38e040ce0f3",
@@ -2293,10 +2293,10 @@
     ],
     [
         {
-            "team1Name": "Salt Lake Turbulence",
-            "team1Abbr": "SLC",
-            "team2Name": "Tucson Butchers",
-            "team2Abbr": "TB",
+            "team1Name": "Boulder Creek Cardsharps",
+            "team1Abbr": "BCC",
+            "team2Name": "Sutro Tower",
+            "team2Abbr": "ST",
             "season": 0,
             "day": 6,
             "id": "7dc1e8d5-eb44-4681-b5af-a48ab38b46c3",
@@ -2331,10 +2331,10 @@
             ]
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team1Abbr": "SS",
-            "team2Name": "Phoenix Freshrolls",
-            "team2Abbr": "FF",
+            "team1Name": "Seaside Swashbucklers",
+            "team1Abbr": "SSS",
+            "team2Name": "Hayward Pipelines",
+            "team2Abbr": "HP",
             "season": 0,
             "day": 6,
             "id": "baea48f3-82da-4dad-aae7-9d8c4446d972",
@@ -2369,10 +2369,10 @@
             ]
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team1Abbr": "OSHA",
-            "team2Name": "Long Beach Flightless Birds",
-            "team2Abbr": "LBFB",
+            "team1Name": "San Jose Avionics",
+            "team1Abbr": "SJA",
+            "team2Name": "Davenport Cliff Divers",
+            "team2Abbr": "DCD",
             "season": 0,
             "day": 6,
             "id": "e3904f38-d7bf-4c10-856b-3e9826e8d760",
@@ -2407,10 +2407,10 @@
             ]
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team1Abbr": "BTX",
-            "team2Name": "Ft. Worth Piano Tuners",
-            "team2Abbr": "FWPT",
+            "team1Name": "Aptos Investigators",
+            "team1Abbr": "AI",
+            "team2Name": "San Gregorio Sand Crabs",
+            "team2Abbr": "SGSC",
             "season": 0,
             "day": 6,
             "id": "b4f8011e-a44c-4dee-be77-2fdea5675753",
@@ -2445,10 +2445,10 @@
             ]
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team1Abbr": "SDBA",
-            "team2Name": "Elko Astronauts",
-            "team2Abbr": "EA",
+            "team1Name": "Mountain View Miners",
+            "team1Abbr": "MVM",
+            "team2Name": "Freedom Fries",
+            "team2Abbr": "FF",
             "season": 0,
             "day": 6,
             "id": "ddcad1db-9aa5-40ae-a1b5-5fd32e7e0835",
@@ -2483,10 +2483,10 @@
             ]
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team1Abbr": "SFBS",
-            "team2Name": "Albuquerque Solarpunks",
-            "team2Abbr": "ABQ",
+            "team1Name": "Caramel Yacht Club",
+            "team1Abbr": "CYC",
+            "team2Name": "Berkeley Brutalists",
+            "team2Abbr": "BBR",
             "season": 0,
             "day": 6,
             "id": "15783dc4-5858-4052-9e60-662e400bc84a",
@@ -2521,10 +2521,10 @@
             ]
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team1Abbr": "AA",
-            "team2Name": "Sugar Grove Eavesdroppers",
-            "team2Abbr": "SGE",
+            "team1Name": "Richmond Slicks",
+            "team1Abbr": "RS",
+            "team2Name": "Santa Cruz Bananas",
+            "team2Abbr": "SCB",
             "season": 0,
             "day": 6,
             "id": "dd550183-020f-40b3-b452-967a569fd139",
@@ -2559,10 +2559,10 @@
             ]
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team1Abbr": "DECO",
-            "team2Name": "Orlando Business Majors",
-            "team2Abbr": "ORL",
+            "team1Name": "Sand City Sidewinders",
+            "team1Abbr": "SCS",
+            "team2Name": "Sausalito Bouncy Castles",
+            "team2Abbr": "SBC",
             "season": 0,
             "day": 6,
             "id": "3e0f63bc-d196-4cd7-be68-9fa68f840a8d",
@@ -2597,10 +2597,10 @@
             ]
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team1Abbr": "MILF",
-            "team2Name": "Boylston Boogers",
-            "team2Abbr": "BB",
+            "team1Name": "Monterey Meterologists",
+            "team1Abbr": "MM",
+            "team2Name": "Vallejo Barnstormers",
+            "team2Abbr": "VB",
             "season": 0,
             "day": 6,
             "id": "82ad4187-b1b9-4fa1-97dd-1fd5cb2f40e0",
@@ -2635,10 +2635,10 @@
             ]
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team1Abbr": "SAC",
-            "team2Name": "Detroit Grape Chews",
-            "team2Abbr": "DET",
+            "team1Name": "Oakland Bees",
+            "team1Abbr": "OB",
+            "team2Name": "Moss Landing Daredevils",
+            "team2Abbr": "DD",
             "season": 0,
             "day": 6,
             "id": "38ffa632-9048-4c8f-a0ca-73b705795646",
@@ -2675,10 +2675,10 @@
     ],
     [
         {
-            "team1Name": "Seattle Sneakers",
-            "team1Abbr": "SS",
-            "team2Name": "Tucson Butchers",
-            "team2Abbr": "TB",
+            "team1Name": "Seaside Swashbucklers",
+            "team1Abbr": "SSS",
+            "team2Name": "Sutro Tower",
+            "team2Abbr": "ST",
             "season": 0,
             "day": 7,
             "id": "e23e0203-d4e2-447e-b03e-4f4401a837e0",
@@ -2713,10 +2713,10 @@
             ]
         },
         {
-            "team1Name": "Salt Lake Turbulence",
-            "team1Abbr": "SLC",
-            "team2Name": "Baltimore Texas",
-            "team2Abbr": "BTX",
+            "team1Name": "Boulder Creek Cardsharps",
+            "team1Abbr": "BCC",
+            "team2Name": "Aptos Investigators",
+            "team2Abbr": "AI",
             "season": 0,
             "day": 7,
             "id": "becf7c5f-48e0-4195-9e74-3ce26acdab62",
@@ -2751,10 +2751,10 @@
             ]
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team1Abbr": "OSHA",
-            "team2Name": "Phoenix Freshrolls",
-            "team2Abbr": "FF",
+            "team1Name": "San Jose Avionics",
+            "team1Abbr": "SJA",
+            "team2Name": "Hayward Pipelines",
+            "team2Abbr": "HP",
             "season": 0,
             "day": 7,
             "id": "bb9e316d-4708-4898-953c-547819cafb54",
@@ -2789,10 +2789,10 @@
             ]
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team1Abbr": "FWPT",
-            "team2Name": "Long Beach Flightless Birds",
-            "team2Abbr": "LBFB",
+            "team1Name": "San Gregorio Sand Crabs",
+            "team1Abbr": "SGSC",
+            "team2Name": "Davenport Cliff Divers",
+            "team2Abbr": "DCD",
             "season": 0,
             "day": 7,
             "id": "8c7c19e4-9789-402c-ae38-44f83dd1a880",
@@ -2827,10 +2827,10 @@
             ]
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team1Abbr": "EA",
-            "team2Name": "San Diego Balloon Animals",
-            "team2Abbr": "SDBA",
+            "team1Name": "Freedom Fries",
+            "team1Abbr": "FF",
+            "team2Name": "Mountain View Miners",
+            "team2Abbr": "MVM",
             "season": 0,
             "day": 7,
             "id": "2d1dc2e0-590e-4478-8b2b-b12f5f4e34a4",
@@ -2865,10 +2865,10 @@
             ]
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team1Abbr": "DET",
-            "team2Name": "Alewife Arsonists",
-            "team2Abbr": "AA",
+            "team1Name": "Moss Landing Daredevils",
+            "team1Abbr": "DD",
+            "team2Name": "Richmond Slicks",
+            "team2Abbr": "RS",
             "season": 0,
             "day": 7,
             "id": "6f9efb03-8fd4-446b-a385-0434bf3d6b87",
@@ -2903,10 +2903,10 @@
             ]
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team1Abbr": "DECO",
-            "team2Name": "Milwaukee Flamingos",
-            "team2Abbr": "MILF",
+            "team1Name": "Sand City Sidewinders",
+            "team1Abbr": "SCS",
+            "team2Name": "Monterey Meterologists",
+            "team2Abbr": "MM",
             "season": 0,
             "day": 7,
             "id": "a7966b7f-a921-45d0-8c64-4a1c457d1a0c",
@@ -2941,10 +2941,10 @@
             ]
         },
         {
-            "team1Name": "Sugar Grove Eavesdroppers",
-            "team1Abbr": "SGE",
-            "team2Name": "Orlando Business Majors",
-            "team2Abbr": "ORL",
+            "team1Name": "Santa Cruz Bananas",
+            "team1Abbr": "SCB",
+            "team2Name": "Sausalito Bouncy Castles",
+            "team2Abbr": "SBC",
             "season": 0,
             "day": 7,
             "id": "e9b571c8-f7f4-44b8-8642-9b8758650095",
@@ -2979,10 +2979,10 @@
             ]
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team1Abbr": "SFBS",
-            "team2Name": "Boylston Boogers",
-            "team2Abbr": "BB",
+            "team1Name": "Caramel Yacht Club",
+            "team1Abbr": "CYC",
+            "team2Name": "Vallejo Barnstormers",
+            "team2Abbr": "VB",
             "season": 0,
             "day": 7,
             "id": "d5f0f207-549f-46f3-9b59-b3dc69b36380",
@@ -3017,10 +3017,10 @@
             ]
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team1Abbr": "SAC",
-            "team2Name": "Albuquerque Solarpunks",
-            "team2Abbr": "ABQ",
+            "team1Name": "Oakland Bees",
+            "team1Abbr": "OB",
+            "team2Name": "Berkeley Brutalists",
+            "team2Abbr": "BBR",
             "season": 0,
             "day": 7,
             "id": "2ae86734-7a8d-465b-a569-fcffc35490ac",
@@ -3057,10 +3057,10 @@
     ],
     [
         {
-            "team1Name": "Elko Astronauts",
-            "team1Abbr": "EA",
-            "team2Name": "Tucson Butchers",
-            "team2Abbr": "TB",
+            "team1Name": "Freedom Fries",
+            "team1Abbr": "FF",
+            "team2Name": "Sutro Tower",
+            "team2Abbr": "ST",
             "season": 0,
             "day": 8,
             "id": "98d754ff-236e-44bb-8e60-80892577609e",
@@ -3095,10 +3095,10 @@
             ]
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team1Abbr": "FWPT",
-            "team2Name": "Baltimore Texas",
-            "team2Abbr": "BTX",
+            "team1Name": "San Gregorio Sand Crabs",
+            "team1Abbr": "SGSC",
+            "team2Name": "Aptos Investigators",
+            "team2Abbr": "AI",
             "season": 0,
             "day": 8,
             "id": "3cd75aab-d3d2-4610-ad8a-e31ef8fee68f",
@@ -3133,10 +3133,10 @@
             ]
         },
         {
-            "team1Name": "Salt Lake Turbulence",
-            "team1Abbr": "SLC",
-            "team2Name": "Phoenix Freshrolls",
-            "team2Abbr": "FF",
+            "team1Name": "Boulder Creek Cardsharps",
+            "team1Abbr": "BCC",
+            "team2Name": "Hayward Pipelines",
+            "team2Abbr": "HP",
             "season": 0,
             "day": 8,
             "id": "7eaf5f26-287e-49ba-ba98-75833046df2c",
@@ -3171,10 +3171,10 @@
             ]
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team1Abbr": "LBFB",
-            "team2Name": "Jersey OSHA Violations",
-            "team2Abbr": "OSHA",
+            "team1Name": "Davenport Cliff Divers",
+            "team1Abbr": "DCD",
+            "team2Name": "San Jose Avionics",
+            "team2Abbr": "SJA",
             "season": 0,
             "day": 8,
             "id": "ddc03cab-e9ca-4ee1-88b9-3a31be43ff83",
@@ -3209,10 +3209,10 @@
             ]
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team1Abbr": "SS",
-            "team2Name": "San Diego Balloon Animals",
-            "team2Abbr": "SDBA",
+            "team1Name": "Seaside Swashbucklers",
+            "team1Abbr": "SSS",
+            "team2Name": "Mountain View Miners",
+            "team2Abbr": "MVM",
             "season": 0,
             "day": 8,
             "id": "463db8a5-8020-418f-9ff6-1bc8d97de9c7",
@@ -3247,10 +3247,10 @@
             ]
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team1Abbr": "MILF",
-            "team2Name": "Sugar Grove Eavesdroppers",
-            "team2Abbr": "SGE",
+            "team1Name": "Monterey Meterologists",
+            "team1Abbr": "MM",
+            "team2Name": "Santa Cruz Bananas",
+            "team2Abbr": "SCB",
             "season": 0,
             "day": 8,
             "id": "09d23b73-4130-47e6-ad21-0b03a2c5e419",
@@ -3285,10 +3285,10 @@
             ]
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team1Abbr": "DECO",
-            "team2Name": "Boylston Boogers",
-            "team2Abbr": "BB",
+            "team1Name": "Sand City Sidewinders",
+            "team1Abbr": "SCS",
+            "team2Name": "Vallejo Barnstormers",
+            "team2Abbr": "VB",
             "season": 0,
             "day": 8,
             "id": "2665bb24-3f4a-4a1a-a9cd-dfb8659c127c",
@@ -3323,10 +3323,10 @@
             ]
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team1Abbr": "ORL",
-            "team2Name": "Alewife Arsonists",
-            "team2Abbr": "AA",
+            "team1Name": "Sausalito Bouncy Castles",
+            "team1Abbr": "SBC",
+            "team2Name": "Richmond Slicks",
+            "team2Abbr": "RS",
             "season": 0,
             "day": 8,
             "id": "946ce5a7-2bd8-435e-b791-06986ed84370",
@@ -3361,10 +3361,10 @@
             ]
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team1Abbr": "SAC",
-            "team2Name": "San Francisco Boat Shoes",
-            "team2Abbr": "SFBS",
+            "team1Name": "Oakland Bees",
+            "team1Abbr": "OB",
+            "team2Name": "Caramel Yacht Club",
+            "team2Abbr": "CYC",
             "season": 0,
             "day": 8,
             "id": "bc543f4d-4166-40d1-9238-7e9bb9795a20",
@@ -3399,10 +3399,10 @@
             ]
         },
         {
-            "team1Name": "Albuquerque Solarpunks",
-            "team1Abbr": "ABQ",
-            "team2Name": "Detroit Grape Chews",
-            "team2Abbr": "DET",
+            "team1Name": "Berkeley Brutalists",
+            "team1Abbr": "BBR",
+            "team2Name": "Moss Landing Daredevils",
+            "team2Abbr": "DD",
             "season": 0,
             "day": 8,
             "id": "fac5fa5b-eaa6-4d44-a28a-9ad54f28795f",

@@ -4,7 +4,7 @@
             "team1Name": "Hayward Pipelines",
             "team1Abbr": "HP",
             "team2Name": "Freedom Fries",
-            "team2Abbr": "FF",
+            "team2Abbr": "FFR",
             "season": 0,
             "day": 0,
             "id": "23936ec5-3698-4190-a1c1-77c4f95b105c",
@@ -536,7 +536,7 @@
         },
         {
             "team1Name": "Freedom Fries",
-            "team1Abbr": "FF",
+            "team1Abbr": "FFR",
             "team2Name": "Seaside Swashbucklers",
             "team2Abbr": "SSS",
             "season": 0,
@@ -804,7 +804,7 @@
         },
         {
             "team1Name": "Freedom Fries",
-            "team1Abbr": "FF",
+            "team1Abbr": "FFR",
             "team2Name": "Boulder Creek Cardsharps",
             "team2Abbr": "BCC",
             "season": 0,
@@ -1224,7 +1224,7 @@
         },
         {
             "team1Name": "Freedom Fries",
-            "team1Abbr": "FF",
+            "team1Abbr": "FFR",
             "team2Name": "San Gregorio Sand Crabs",
             "team2Abbr": "SGSC",
             "season": 0,
@@ -1568,7 +1568,7 @@
         },
         {
             "team1Name": "Freedom Fries",
-            "team1Abbr": "FF",
+            "team1Abbr": "FFR",
             "team2Name": "Boulder Creek Cardsharps",
             "team2Abbr": "BCC",
             "season": 0,
@@ -1988,7 +1988,7 @@
         },
         {
             "team1Name": "Freedom Fries",
-            "team1Abbr": "FF",
+            "team1Abbr": "FFR",
             "team2Name": "Davenport Cliff Divers",
             "team2Abbr": "DCD",
             "season": 0,
@@ -2448,7 +2448,7 @@
             "team1Name": "Mountain View Miners",
             "team1Abbr": "MVM",
             "team2Name": "Freedom Fries",
-            "team2Abbr": "FF",
+            "team2Abbr": "FFR",
             "season": 0,
             "day": 6,
             "id": "ddcad1db-9aa5-40ae-a1b5-5fd32e7e0835",
@@ -2828,7 +2828,7 @@
         },
         {
             "team1Name": "Freedom Fries",
-            "team1Abbr": "FF",
+            "team1Abbr": "FFR",
             "team2Name": "Mountain View Miners",
             "team2Abbr": "MVM",
             "season": 0,
@@ -3058,7 +3058,7 @@
     [
         {
             "team1Name": "Freedom Fries",
-            "team1Abbr": "FF",
+            "team1Abbr": "FFR",
             "team2Name": "Sutro Tower",
             "team2Abbr": "ST",
             "season": 0,

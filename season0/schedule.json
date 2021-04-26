@@ -67,7 +67,7 @@
             "id": "a3e35b5b-fc78-4f3f-b69f-50c4555dfa6f",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#e7a0e8",
+            "team1Color": "#bb0000",
             "team2Color": "#f2c57c"
         },
         {
@@ -123,7 +123,7 @@
             "id": "2a2513f9-add6-4b4f-bb12-496b1f18edcf",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#53917e"
         },
         {
@@ -167,7 +167,7 @@
             "id": "96f188a8-6c02-4243-b0f3-9a45ab3dc464",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#e7a0e8",
+            "team1Color": "#bb0000",
             "team2Color": "#fefe67"
         },
         {
@@ -252,7 +252,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#53917e",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Sutro Tower",
@@ -310,7 +310,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#ff66cc",
-            "team2Color": "#e7a0e8"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Seaside Swashbucklers",
@@ -422,7 +422,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#BB0000",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7a0e8"
         }
     ],
     [
@@ -438,7 +438,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#00cc44",
-            "team2Color": "#e7a0e8"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Caramel Yacht Club",
@@ -536,7 +536,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#d41199",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "San Jose Avionics",
@@ -607,7 +607,7 @@
             "id": "2179ae2f-058e-4958-824c-77df07c726d1",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#e7a0e8",
+            "team1Color": "#bb0000",
             "team2Color": "#fefe67"
         },
         {
@@ -650,7 +650,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#b0b0b0",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Mountain View Miners",
@@ -722,7 +722,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#f2c57c",
-            "team2Color": "#e7a0e8"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Moss Landing Daredevils",
@@ -848,7 +848,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#f08700",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7a0e8"
         }
     ],
     [
@@ -863,7 +863,7 @@
             "id": "d3d74766-7cb4-4b89-9177-6efcb8b452ee",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#e7a0e8",
+            "team1Color": "#bb0000",
             "team2Color": "#3e92cc"
         },
         {
@@ -961,7 +961,7 @@
             "id": "9064ca72-a28e-4a2b-b903-2ff561f51855",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#0dab76"
         },
         {
@@ -1019,7 +1019,7 @@
             "id": "4d33c064-21f5-47c2-a75e-52aa8d30b7ee",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#e7a0e8",
+            "team1Color": "#bb0000",
             "team2Color": "#e7d7c1"
         },
         {
@@ -1103,7 +1103,7 @@
             "id": "8253a9a2-6183-4661-890c-e4262d40487a",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#ffb627"
         },
         {
@@ -1204,7 +1204,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#fefe67",
-            "team2Color": "#e7a0e8"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Sutro Tower",
@@ -1232,7 +1232,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#d41199",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Hayward Pipelines",

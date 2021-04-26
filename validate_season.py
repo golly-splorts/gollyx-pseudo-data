@@ -2,7 +2,7 @@ import os
 import json
 
 
-NSEASONS = 0
+NSEASONS = 2
 
 SERIES_GPD = {"LDS": 4, "LCS": 2, "HCS": 1}
 
@@ -429,14 +429,15 @@ for iseason in range(NSEASONS + 1):
         )
 
     # bracket.json teams must be a subset of teams.json teams
-    ignore_list = ["Top Seed", "Bottom Seed", "Cold League", "Hot League"]
+    ignore_list = ["Top Seed", "Bottom Seed", "Monterey Bay League", "San Francisco Bay League"]
     ignore_list = set(ignore_list)
     bracket_team_names = bracket_team_names - ignore_list
 
-    if not set(bracket_team_names).issubset(teams_team_names):
+    if not set(bracket_team_names).issubset(set(teams_team_names)):
         err = "Error: mismatch in teams.json and bracket.json team names:\n"
-        err += f"bracket.json team names: {', '.join(bracket_team_names)}\n"
-        err += f"teams.json team names: {', '.join(teams_team_names)}\n"
+        err += f"bracket.json team names: {', '.join(sorted(bracket_team_names))}\n"
+        err += f"teams.json team names: {', '.join(sorted(teams_team_names))}\n"
+        err += f"Missing from teams: {', '.join(sorted(set(bracket_team_names) - set(teams_team_names)))}"
         raise Exception(err)
 
     # -----------

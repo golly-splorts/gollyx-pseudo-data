@@ -2,7 +2,7 @@
     {
         "teamAbbr": "ST",
         "teamName": "Sutro Tower",
-        "teamColor": "#bb0000",
+        "teamColor": "#ff1717",
         "league": "San Francisco Bay League",
         "division": "Low Division"
     },
@@ -51,7 +51,7 @@
     {
         "teamAbbr": "RS",
         "teamName": "Richmond Slicks",
-        "teamColor": "#ff1717",
+        "teamColor": "#e7a0e8",
         "league": "San Francisco Bay League",
         "division": "High Division"
     },
@@ -135,7 +135,7 @@
     {
         "teamAbbr": "SCS",
         "teamName": "Sand City Sidewinders",
-        "teamColor": "#e7a0e8",
+        "teamColor": "#bb0000",
         "league": "Monterey Bay League",
         "division": "Low Division"
     }

@@ -53,7 +53,7 @@
             "id": "7b3cc722-09e7-42d0-b0cb-3bf93bfb131f",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#00cc44"
         },
         {
@@ -167,7 +167,7 @@
             "id": "33838201-3a65-47ca-9e28-0bd32dac0f59",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#f2c57c"
         },
         {
@@ -351,7 +351,7 @@
             "id": "ccc69259-a21d-4095-9196-9f7142ff18fc",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#ff66cc"
         },
         {
@@ -480,7 +480,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#e86215",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Caramel Yacht Club",
@@ -594,7 +594,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#f2c57c",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Moss Landing Daredevils",
@@ -763,7 +763,7 @@
             "id": "84ef35bb-fa27-4b4f-94ea-1ba40b4ee374",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#a0e7e5"
         },
         {
@@ -864,7 +864,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#3e92cc",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Monterey Meterologists",
@@ -1020,7 +1020,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#fefe67",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Seaside Swashbucklers",
@@ -1175,7 +1175,7 @@
             "id": "3da21ca8-1a40-492b-a60e-7797db6aa392",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#a0e7e5"
         },
         {

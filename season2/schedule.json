@@ -3,7 +3,7 @@
         {
             "team1Name": "Davenport Cliff Divers",
             "team1Abbr": "DCD",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "patiolights",
             "season": 2,
@@ -201,7 +201,7 @@
         {
             "team1Name": "Moss Landing Daredevils",
             "team1Abbr": "DD",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "patiolights",
             "season": 2,
@@ -343,7 +343,7 @@
         {
             "team1Name": "Sand City Sidewinders",
             "team1Abbr": "SCS",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "methuselahdense",
             "season": 2,
@@ -455,7 +455,7 @@
             "team2Color": "#fefe67"
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Boulder Creek Cardsharps",
             "team2Abbr": "BCC",
@@ -627,7 +627,7 @@
         {
             "team1Name": "Seaside Swashbucklers",
             "team1Abbr": "SSS",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "random",
             "season": 2,
@@ -725,7 +725,7 @@
             "team2Color": "#3e92cc"
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Santa Cruz Bananas",
             "team2Abbr": "SCB",
@@ -867,7 +867,7 @@
             "team2Color": "#bb0000"
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Santa Cruz Bananas",
             "team2Abbr": "SCB",
@@ -997,7 +997,7 @@
         {
             "team1Name": "Davenport Cliff Divers",
             "team1Abbr": "DCD",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "patiolights",
             "season": 2,
@@ -1179,7 +1179,7 @@
             "team2Color": "#a0e7e5"
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Davenport Cliff Divers",
             "team2Abbr": "DCD",

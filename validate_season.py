@@ -2,7 +2,7 @@ import os
 import json
 
 
-NSEASONS = 7
+NSEASONS = 8
 
 SERIES_GPD = {"LDS": 4, "LCS": 2, "HCS": 1}
 
@@ -222,7 +222,7 @@ for iseason in range(NSEASONS + 1):
         games = day
         for igame, game in enumerate(games):
             t1 = game["team1Name"]
-            t2 = game["team1Name"]
+            t2 = game["team2Name"]
 
             check_id(game)
             check_name_color_match(game)

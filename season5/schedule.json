@@ -81,7 +81,7 @@
             "id": "fb135622-4ef7-4f7c-a505-e8376b83c710",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#0dab76"
         },
         {
@@ -138,7 +138,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#697a21",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7a0e8"
         }
     ],
     [
@@ -224,7 +224,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#53917e",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Sausalito Bouncy Castles",
@@ -251,7 +251,7 @@
             "id": "bc8dd242-e1bd-4fe7-99c5-1bfd24603c03",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#ef6f6c"
         },
         {
@@ -365,7 +365,7 @@
             "id": "a365fff6-58ad-4641-b5b3-c9937e474971",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#0dab76"
         },
         {
@@ -393,7 +393,7 @@
             "id": "9caa912e-883a-41e0-bdb8-feeb18d4210f",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#f08700"
         },
         {
@@ -521,7 +521,7 @@
             "id": "d7215e9f-64c9-4084-a615-1d06b0438085",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#53917e"
         },
         {
@@ -563,7 +563,7 @@
             "id": "b5d7a251-d2d4-4c84-9315-146e3fcccc8c",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#ffb627"
         }
     ],
@@ -691,7 +691,7 @@
             "id": "23dd8f29-75d5-4ec6-8a08-44ca0361de39",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#ef6f6c"
         },
         {
@@ -705,7 +705,7 @@
             "id": "4f761449-7e27-468f-8e12-255e8177f24b",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#53917e"
         }
     ],
@@ -792,7 +792,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#b0b0b0",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "San Jose Avionics",
@@ -833,7 +833,7 @@
             "id": "7ae465e1-8a3a-4d2b-898e-e22b8412bc64",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#d41199"
         },
         {
@@ -948,7 +948,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#53917e",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Mountain View Miners",
@@ -990,7 +990,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#0dab76",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -1089,7 +1089,7 @@
             "id": "21e18c67-40ae-4c04-8217-6a68cc85b3ed",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#697a21"
         },
         {
@@ -1117,7 +1117,7 @@
             "id": "8bd2cd37-3215-4868-bacc-85efd0286a3e",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#53917e"
         },
         {
@@ -1218,7 +1218,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#f08700",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Sausalito Bouncy Castles",
@@ -1260,7 +1260,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#697a21",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "San Gregorio Sand Crabs",

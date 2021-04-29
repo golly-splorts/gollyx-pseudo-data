@@ -2,7 +2,7 @@
     {
         "teamAbbr": "ST",
         "teamName": "Sutro Tower",
-        "teamColor": "#BB0000",
+        "teamColor": "#ff1717",
         "league": "San Francisco Bay League",
         "division": "Low Division"
     },
@@ -51,7 +51,7 @@
     {
         "teamAbbr": "RS",
         "teamName": "Richmond Slicks",
-        "teamColor": "#ff1717",
+        "teamColor": "#e7a0e8",
         "league": "San Francisco Bay League",
         "division": "High Division"
     },
@@ -127,7 +127,7 @@
     },
     {
         "teamAbbr": "MM",
-        "teamName": "Monterey Meterologists",
+        "teamName": "Monterey Meteorologists",
         "teamColor": "#ff66cc",
         "league": "Monterey Bay League",
         "division": "Low Division"
@@ -135,7 +135,7 @@
     {
         "teamAbbr": "SCS",
         "teamName": "Sand City Sidewinders",
-        "teamColor": "#a0e7e8",
+        "teamColor": "#bb0000",
         "league": "Monterey Bay League",
         "division": "Low Division"
     }

@@ -315,7 +315,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7a0e8",
             "map": {
                 "patternName": "gaussian",
                 "mapName": "The Gaussian",
@@ -353,7 +353,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#53917e",
-            "team2Color": "#BB0000",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "sunburst",
                 "mapName": "Sunburst",
@@ -620,7 +620,7 @@
             "id": "2fc2e352-fb89-4786-9ce6-376c962649e1",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#53917e",
             "map": {
                 "patternName": "methuselahdense",
@@ -734,7 +734,7 @@
             "id": "7716264d-68ed-4b3d-93e6-692b31bf3316",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#d41199",
             "map": {
                 "patternName": "methuselahdense",
@@ -1003,7 +1003,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#d41199",
-            "team2Color": "#BB0000",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "stickyheptominos",
                 "mapName": "Sticky Fingers",
@@ -1079,7 +1079,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#ffb627",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7a0e8",
             "map": {
                 "patternName": "patiolights",
                 "mapName": "The Porch",
@@ -1384,7 +1384,7 @@
             "id": "15bd46ac-4231-44e6-9094-8f89fd6ae5be",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#53917e",
             "map": {
                 "patternName": "stickyheptominos",
@@ -1422,7 +1422,7 @@
             "id": "5a7cd247-d9d0-4425-8807-e40fa6378d78",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#0dab76",
             "map": {
                 "patternName": "lockpickfence",
@@ -1766,7 +1766,7 @@
             "id": "56f710da-5f61-46a8-b447-da13b17887b1",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#ffb627",
             "map": {
                 "patternName": "lockpickfence",
@@ -1804,7 +1804,7 @@
             "id": "6b6c0c65-2389-4fac-896e-d9f6530ba304",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#f08700",
             "map": {
                 "patternName": "sunburst",
@@ -2110,7 +2110,7 @@
             "id": "7507b2a3-3b0a-48b1-a3fb-01d160af5aef",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#b0b0b0",
             "map": {
                 "patternName": "stretchydog",
@@ -2225,7 +2225,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#53917e",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7a0e8",
             "map": {
                 "patternName": "stickyheptominos",
                 "mapName": "Sticky Fingers",
@@ -2531,7 +2531,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#697a21",
-            "team2Color": "#BB0000",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "random",
                 "mapName": "Northeast Hellmouth",
@@ -2606,7 +2606,7 @@
             "id": "214121d7-7ea2-466e-b68c-a95135f00eeb",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#ef6f6c",
             "map": {
                 "patternName": "randompartition",
@@ -3026,8 +3026,8 @@
             "id": "50e9d963-5cbc-4fa1-a7f4-184db4f3a51a",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
-            "team2Color": "#BB0000",
+            "team1Color": "#e7a0e8",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "patiolights",
                 "mapName": "The Porch",
@@ -3257,7 +3257,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#f08700",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7a0e8",
             "map": {
                 "patternName": "stickyheptominos",
                 "mapName": "Sticky Fingers",
@@ -3294,7 +3294,7 @@
             "id": "a530e830-4021-4e38-b768-d2c91d1d27b5",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#b0b0b0",
             "map": {
                 "patternName": "randompartition",

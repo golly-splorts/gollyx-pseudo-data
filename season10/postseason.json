@@ -4,7 +4,7 @@
             {
                 "league": "Monterey Bay League",
                 "season": 10,
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Boulder Creek Cardsharps",
                 "team1Abbr": "MM",
                 "team2Abbr": "BCC",
@@ -194,7 +194,7 @@
             {
                 "league": "Monterey Bay League",
                 "season": 10,
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Boulder Creek Cardsharps",
                 "team1Abbr": "MM",
                 "team2Abbr": "BCC",
@@ -385,7 +385,7 @@
                 "league": "Monterey Bay League",
                 "season": 10,
                 "team1Name": "Boulder Creek Cardsharps",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "BCC",
                 "team2Abbr": "MM",
                 "description": "Game 3, Pseudo Cup Egalitarian Eight, Monterey Bay League 1",
@@ -575,7 +575,7 @@
                 "league": "Monterey Bay League",
                 "season": 10,
                 "team1Name": "Boulder Creek Cardsharps",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "BCC",
                 "team2Abbr": "MM",
                 "description": "Game 4, Pseudo Cup Egalitarian Eight, Monterey Bay League 1",
@@ -717,7 +717,7 @@
             {
                 "league": "Monterey Bay League",
                 "season": 10,
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Boulder Creek Cardsharps",
                 "team1Abbr": "MM",
                 "team2Abbr": "BCC",
@@ -766,7 +766,7 @@
     "LCS": [
         [
             {
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Freedom Fries",
                 "team1Abbr": "MM",
                 "team2Abbr": "FFR",
@@ -862,7 +862,7 @@
         ],
         [
             {
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Freedom Fries",
                 "team1Abbr": "MM",
                 "team2Abbr": "FFR",
@@ -959,7 +959,7 @@
         [
             {
                 "team1Name": "Freedom Fries",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "FFR",
                 "team2Abbr": "MM",
                 "league": "Monterey Bay League",
@@ -1055,7 +1055,7 @@
         [
             {
                 "team1Name": "Freedom Fries",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "FFR",
                 "team2Abbr": "MM",
                 "league": "Monterey Bay League",
@@ -1150,7 +1150,7 @@
         ],
         [
             {
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Freedom Fries",
                 "team1Abbr": "MM",
                 "team2Abbr": "FFR",
@@ -1249,7 +1249,7 @@
         [
             {
                 "team1Name": "Berkeley Brutalists",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "BBR",
                 "team2Abbr": "MM",
                 "description": "Game 1, Pseudo Cup",
@@ -1297,7 +1297,7 @@
         [
             {
                 "team1Name": "Berkeley Brutalists",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "BBR",
                 "team2Abbr": "MM",
                 "description": "Game 2, Pseudo Cup",
@@ -1344,7 +1344,7 @@
         ],
         [
             {
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Berkeley Brutalists",
                 "team1Abbr": "MM",
                 "team2Abbr": "BBR",
@@ -1392,7 +1392,7 @@
         ],
         [
             {
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Berkeley Brutalists",
                 "team1Abbr": "MM",
                 "team2Abbr": "BBR",
@@ -1440,7 +1440,7 @@
         ],
         [
             {
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Berkeley Brutalists",
                 "team1Abbr": "MM",
                 "team2Abbr": "BBR",
@@ -1489,7 +1489,7 @@
         [
             {
                 "team1Name": "Berkeley Brutalists",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "BBR",
                 "team2Abbr": "MM",
                 "description": "Game 6, Pseudo Cup",
@@ -1537,7 +1537,7 @@
         [
             {
                 "team1Name": "Berkeley Brutalists",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "BBR",
                 "team2Abbr": "MM",
                 "description": "Game 7, Pseudo Cup",

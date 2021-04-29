@@ -1,7 +1,7 @@
 [
     [
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Sand City Sidewinders",
             "team2Abbr": "SCS",
@@ -11,7 +11,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e8",
+            "team2Color": "#bb0000",
             "map": {
                 "patternName": "stickyheptominos",
                 "mapName": "Sticky Fingers",
@@ -201,7 +201,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#b0b0b0",
-            "team2Color": "#BB0000",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "methuselahdense",
                 "mapName": "Dance Hall",
@@ -315,7 +315,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#f08700",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7a0e8",
             "map": {
                 "patternName": "patiolights",
                 "mapName": "The Porch",
@@ -383,7 +383,7 @@
     ],
     [
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Caramel Yacht Club",
             "team2Abbr": "CYC",
@@ -507,7 +507,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#3e92cc",
-            "team2Color": "#a0e7e8",
+            "team2Color": "#bb0000",
             "map": {
                 "patternName": "random",
                 "mapName": "Northeast Hellmouth",
@@ -582,8 +582,8 @@
             "id": "3d540e95-ccf0-4a0b-9560-03b6eaf0f149",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
-            "team2Color": "#BB0000",
+            "team1Color": "#e7a0e8",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "stickyheptominos",
                 "mapName": "Sticky Fingers",
@@ -843,7 +843,7 @@
         {
             "team1Name": "Aptos Investigators",
             "team1Abbr": "AI",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "season": 10,
             "day": 2,
@@ -889,7 +889,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#a0e7e5",
-            "team2Color": "#a0e7e8",
+            "team2Color": "#bb0000",
             "map": {
                 "patternName": "nastynonominos",
                 "mapName": "The Filthy McNasty",
@@ -1003,7 +1003,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7a0e8",
             "map": {
                 "patternName": "methuselahsparse",
                 "mapName": "Seeds",
@@ -1041,7 +1041,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#0dab76",
-            "team2Color": "#BB0000",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "lockpickfence",
                 "mapName": "The Locksmith",
@@ -1232,7 +1232,7 @@
             "id": "13d2f1fa-c120-44f1-8324-fa6ddc383bf5",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#bb0000",
             "team2Color": "#00cc44",
             "map": {
                 "patternName": "gaussian",
@@ -1261,7 +1261,7 @@
             ]
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Moss Landing Daredevils",
             "team2Abbr": "DD",
@@ -1423,7 +1423,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#BB0000",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "methuselahsparse",
                 "mapName": "Seeds",
@@ -1460,7 +1460,7 @@
             "id": "0f99f4b4-1ea3-4700-9fa5-7796dcd2c932",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#0dab76",
             "map": {
                 "patternName": "nastynonominos",
@@ -1577,7 +1577,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#e7d7c1",
-            "team2Color": "#a0e7e8",
+            "team2Color": "#bb0000",
             "map": {
                 "patternName": "random",
                 "mapName": "Northeast Hellmouth",
@@ -1683,7 +1683,7 @@
         {
             "team1Name": "Santa Cruz Bananas",
             "team1Abbr": "SCB",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "season": 10,
             "day": 4,
@@ -1728,7 +1728,7 @@
             "id": "1813922d-7cc6-49ad-bd06-64384e16d4b7",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#d41199",
             "map": {
                 "patternName": "methuselahdense",
@@ -1766,7 +1766,7 @@
             "id": "227a045d-5d57-4852-aeee-86118f7c4dfe",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#53917e",
             "map": {
                 "patternName": "nastynonominos",
@@ -1911,7 +1911,7 @@
     ],
     [
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Davenport Cliff Divers",
             "team2Abbr": "DCD",
@@ -2072,7 +2072,7 @@
             "id": "49be0ff8-c4be-4c82-addf-89babf0791a1",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#bb0000",
             "team2Color": "#e7d7c1",
             "map": {
                 "patternName": "bigsegment",
@@ -2187,7 +2187,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#697a21",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7a0e8",
             "map": {
                 "patternName": "patiolights",
                 "mapName": "The Porch",
@@ -2263,7 +2263,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#53917e",
-            "team2Color": "#BB0000",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "stretchydog",
                 "mapName": "Stretchydog",
@@ -2295,7 +2295,7 @@
         {
             "team1Name": "Aptos Investigators",
             "team1Abbr": "AI",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "season": 10,
             "day": 6,
@@ -2454,7 +2454,7 @@
             "id": "271fef25-e8db-4f38-bcb0-d6f1690f1ba8",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#bb0000",
             "team2Color": "#f2c57c",
             "map": {
                 "patternName": "lockpickfence",
@@ -2530,8 +2530,8 @@
             "id": "c31191c0-e5f4-4d9a-89d5-e45b00afc39e",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
-            "team2Color": "#ff1717",
+            "team1Color": "#ff1717",
+            "team2Color": "#e7a0e8",
             "map": {
                 "patternName": "gaussian",
                 "mapName": "The Gaussian",
@@ -2761,7 +2761,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#9963ab",
-            "team2Color": "#a0e7e8",
+            "team2Color": "#bb0000",
             "map": {
                 "patternName": "stickyheptominos",
                 "mapName": "Sticky Fingers",
@@ -2829,7 +2829,7 @@
         {
             "team1Name": "Boulder Creek Cardsharps",
             "team1Abbr": "BCC",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "season": 10,
             "day": 7,
@@ -2912,8 +2912,8 @@
             "id": "cbc20528-6714-4f3a-bf18-193783b6285d",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
-            "team2Color": "#ff1717",
+            "team1Color": "#ff1717",
+            "team2Color": "#e7a0e8",
             "map": {
                 "patternName": "patiolights",
                 "mapName": "The Porch",
@@ -3066,7 +3066,7 @@
             "id": "2d0015f7-ebd5-4e5c-bae9-5af144a3350f",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#bb0000",
             "team2Color": "#e86215",
             "map": {
                 "patternName": "patiolights",
@@ -3171,7 +3171,7 @@
             ]
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Freedom Fries",
             "team2Abbr": "FFR",
@@ -3294,7 +3294,7 @@
             "id": "895bab1e-a81d-4d9c-b47f-9f447ce5a71e",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#53917e",
             "map": {
                 "patternName": "stickyheptominos",
@@ -3408,7 +3408,7 @@
             "id": "2d9103d5-521d-437b-9390-8f5471b666ca",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#ffb627",
             "map": {
                 "patternName": "random",

@@ -29,7 +29,7 @@
             "team2Color": "#ff66cc"
         },
         {
-            "team1Name": "Caramel Yacht Club",
+            "team1Name": "Carmel Yacht Club",
             "team1Abbr": "CYC",
             "team2Name": "Davenport Cliff Divers",
             "team2Abbr": "DCD",
@@ -145,7 +145,7 @@
         {
             "team1Name": "Sand City Sidewinders",
             "team1Abbr": "SCS",
-            "team2Name": "Caramel Yacht Club",
+            "team2Name": "Carmel Yacht Club",
             "team2Abbr": "CYC",
             "patternName": "randompartition",
             "season": 3,
@@ -287,7 +287,7 @@
         {
             "team1Name": "Freedom Fries",
             "team1Abbr": "FFR",
-            "team2Name": "Caramel Yacht Club",
+            "team2Name": "Carmel Yacht Club",
             "team2Abbr": "CYC",
             "patternName": "bigsegment",
             "season": 3,
@@ -483,7 +483,7 @@
             "team2Color": "#fefe67"
         },
         {
-            "team1Name": "Caramel Yacht Club",
+            "team1Name": "Carmel Yacht Club",
             "team1Abbr": "CYC",
             "team2Name": "Aptos Investigators",
             "team2Abbr": "AI",
@@ -597,7 +597,7 @@
             "team2Color": "#f2c57c"
         },
         {
-            "team1Name": "Caramel Yacht Club",
+            "team1Name": "Carmel Yacht Club",
             "team1Abbr": "CYC",
             "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
@@ -727,7 +727,7 @@
         {
             "team1Name": "Sand City Sidewinders",
             "team1Abbr": "SCS",
-            "team2Name": "Caramel Yacht Club",
+            "team2Name": "Carmel Yacht Club",
             "team2Abbr": "CYC",
             "patternName": "nastynonominos",
             "season": 3,
@@ -853,7 +853,7 @@
     ],
     [
         {
-            "team1Name": "Caramel Yacht Club",
+            "team1Name": "Carmel Yacht Club",
             "team1Abbr": "CYC",
             "team2Name": "Aptos Investigators",
             "team2Abbr": "AI",
@@ -1009,7 +1009,7 @@
             "team2Color": "#00cc44"
         },
         {
-            "team1Name": "Caramel Yacht Club",
+            "team1Name": "Carmel Yacht Club",
             "team1Abbr": "CYC",
             "team2Name": "Freedom Fries",
             "team2Abbr": "FFR",
@@ -1139,7 +1139,7 @@
         {
             "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
-            "team2Name": "Caramel Yacht Club",
+            "team2Name": "Carmel Yacht Club",
             "team2Abbr": "CYC",
             "patternName": "nastynonominos",
             "season": 3,

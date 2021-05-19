@@ -5,7 +5,7 @@
                 "league": "Monterey Bay League",
                 "season": 11,
                 "team1Name": "Santa Cruz Bananas",
-                "team2Name": "Caramel Yacht Club",
+                "team2Name": "Carmel Yacht Club",
                 "team1Abbr": "SCB",
                 "team2Abbr": "CYC",
                 "description": "Game 1, Pseudo Cup Egalitarian Eight, Monterey Bay League 1",
@@ -195,7 +195,7 @@
                 "league": "Monterey Bay League",
                 "season": 11,
                 "team1Name": "Santa Cruz Bananas",
-                "team2Name": "Caramel Yacht Club",
+                "team2Name": "Carmel Yacht Club",
                 "team1Abbr": "SCB",
                 "team2Abbr": "CYC",
                 "description": "Game 2, Pseudo Cup Egalitarian Eight, Monterey Bay League 1",
@@ -384,7 +384,7 @@
             {
                 "league": "Monterey Bay League",
                 "season": 11,
-                "team1Name": "Caramel Yacht Club",
+                "team1Name": "Carmel Yacht Club",
                 "team2Name": "Santa Cruz Bananas",
                 "team1Abbr": "CYC",
                 "team2Abbr": "SCB",
@@ -766,7 +766,7 @@
     "LCS": [
         [
             {
-                "team1Name": "Caramel Yacht Club",
+                "team1Name": "Carmel Yacht Club",
                 "team2Name": "Davenport Cliff Divers",
                 "team1Abbr": "CYC",
                 "team2Abbr": "DCD",
@@ -862,7 +862,7 @@
         ],
         [
             {
-                "team1Name": "Caramel Yacht Club",
+                "team1Name": "Carmel Yacht Club",
                 "team2Name": "Davenport Cliff Divers",
                 "team1Abbr": "CYC",
                 "team2Abbr": "DCD",
@@ -959,7 +959,7 @@
         [
             {
                 "team1Name": "Davenport Cliff Divers",
-                "team2Name": "Caramel Yacht Club",
+                "team2Name": "Carmel Yacht Club",
                 "team1Abbr": "DCD",
                 "team2Abbr": "CYC",
                 "league": "Monterey Bay League",
@@ -1106,7 +1106,7 @@
         [
             {
                 "team1Name": "Oakland Bees",
-                "team2Name": "Caramel Yacht Club",
+                "team2Name": "Carmel Yacht Club",
                 "team1Abbr": "OB",
                 "team2Abbr": "CYC",
                 "description": "Game 1, Pseudo Cup",
@@ -1154,7 +1154,7 @@
         [
             {
                 "team1Name": "Oakland Bees",
-                "team2Name": "Caramel Yacht Club",
+                "team2Name": "Carmel Yacht Club",
                 "team1Abbr": "OB",
                 "team2Abbr": "CYC",
                 "description": "Game 2, Pseudo Cup",
@@ -1201,7 +1201,7 @@
         ],
         [
             {
-                "team1Name": "Caramel Yacht Club",
+                "team1Name": "Carmel Yacht Club",
                 "team2Name": "Oakland Bees",
                 "team1Abbr": "CYC",
                 "team2Abbr": "OB",
@@ -1249,7 +1249,7 @@
         ],
         [
             {
-                "team1Name": "Caramel Yacht Club",
+                "team1Name": "Carmel Yacht Club",
                 "team2Name": "Oakland Bees",
                 "team1Abbr": "CYC",
                 "team2Abbr": "OB",
@@ -1297,7 +1297,7 @@
         ],
         [
             {
-                "team1Name": "Caramel Yacht Club",
+                "team1Name": "Carmel Yacht Club",
                 "team2Name": "Oakland Bees",
                 "team1Abbr": "CYC",
                 "team2Abbr": "OB",
@@ -1346,7 +1346,7 @@
         [
             {
                 "team1Name": "Oakland Bees",
-                "team2Name": "Caramel Yacht Club",
+                "team2Name": "Carmel Yacht Club",
                 "team1Abbr": "OB",
                 "team2Abbr": "CYC",
                 "description": "Game 6, Pseudo Cup",

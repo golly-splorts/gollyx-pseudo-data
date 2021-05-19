@@ -17,7 +17,7 @@
         {
             "team1Name": "Santa Cruz Bananas",
             "team1Abbr": "SCB",
-            "team2Name": "Caramel Yacht Club",
+            "team2Name": "Carmel Yacht Club",
             "team2Abbr": "CYC",
             "patternName": "stickyheptominos",
             "season": 7,
@@ -145,7 +145,7 @@
         {
             "team1Name": "Aptos Investigators",
             "team1Abbr": "AI",
-            "team2Name": "Caramel Yacht Club",
+            "team2Name": "Carmel Yacht Club",
             "team2Abbr": "CYC",
             "patternName": "bigsegment",
             "season": 7,
@@ -287,7 +287,7 @@
         {
             "team1Name": "Aptos Investigators",
             "team1Abbr": "AI",
-            "team2Name": "Caramel Yacht Club",
+            "team2Name": "Carmel Yacht Club",
             "team2Abbr": "CYC",
             "patternName": "stickyheptominos",
             "season": 7,
@@ -443,7 +443,7 @@
         {
             "team1Name": "Freedom Fries",
             "team1Abbr": "FFR",
-            "team2Name": "Caramel Yacht Club",
+            "team2Name": "Carmel Yacht Club",
             "team2Abbr": "CYC",
             "patternName": "nastynonominos",
             "season": 7,
@@ -625,7 +625,7 @@
             "team2Color": "#e86215"
         },
         {
-            "team1Name": "Caramel Yacht Club",
+            "team1Name": "Carmel Yacht Club",
             "team1Abbr": "CYC",
             "team2Name": "Davenport Cliff Divers",
             "team2Abbr": "DCD",
@@ -769,7 +769,7 @@
         {
             "team1Name": "Aptos Investigators",
             "team1Abbr": "AI",
-            "team2Name": "Caramel Yacht Club",
+            "team2Name": "Carmel Yacht Club",
             "team2Abbr": "CYC",
             "patternName": "methuselahdense",
             "season": 7,
@@ -881,7 +881,7 @@
             "team2Color": "#f2c57c"
         },
         {
-            "team1Name": "Caramel Yacht Club",
+            "team1Name": "Carmel Yacht Club",
             "team1Abbr": "CYC",
             "team2Name": "Santa Cruz Bananas",
             "team2Abbr": "SCB",
@@ -997,7 +997,7 @@
         {
             "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
-            "team2Name": "Caramel Yacht Club",
+            "team2Name": "Carmel Yacht Club",
             "team2Abbr": "CYC",
             "patternName": "bigsegment",
             "season": 7,
@@ -1193,7 +1193,7 @@
             "team2Color": "#a0e7e5"
         },
         {
-            "team1Name": "Caramel Yacht Club",
+            "team1Name": "Carmel Yacht Club",
             "team1Abbr": "CYC",
             "team2Name": "Seaside Swashbucklers",
             "team2Abbr": "SSS",

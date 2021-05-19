@@ -41,7 +41,7 @@
         {
             "team1Name": "Aptos Investigators",
             "team1Abbr": "AI",
-            "team2Name": "Caramel Yacht Club",
+            "team2Name": "Carmel Yacht Club",
             "team2Abbr": "CYC",
             "season": 10,
             "day": 0,
@@ -385,7 +385,7 @@
         {
             "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
-            "team2Name": "Caramel Yacht Club",
+            "team2Name": "Carmel Yacht Club",
             "team2Abbr": "CYC",
             "season": 10,
             "day": 1,
@@ -767,7 +767,7 @@
         {
             "team1Name": "Seaside Swashbucklers",
             "team1Abbr": "SSS",
-            "team2Name": "Caramel Yacht Club",
+            "team2Name": "Carmel Yacht Club",
             "team2Abbr": "CYC",
             "season": 10,
             "day": 2,
@@ -1147,7 +1147,7 @@
     ],
     [
         {
-            "team1Name": "Caramel Yacht Club",
+            "team1Name": "Carmel Yacht Club",
             "team1Abbr": "CYC",
             "team2Name": "Santa Cruz Bananas",
             "team2Abbr": "SCB",
@@ -1567,7 +1567,7 @@
             ]
         },
         {
-            "team1Name": "Caramel Yacht Club",
+            "team1Name": "Carmel Yacht Club",
             "team1Abbr": "CYC",
             "team2Name": "Sand City Sidewinders",
             "team2Abbr": "SCS",
@@ -2065,7 +2065,7 @@
         {
             "team1Name": "Sand City Sidewinders",
             "team1Abbr": "SCS",
-            "team2Name": "Caramel Yacht Club",
+            "team2Name": "Carmel Yacht Club",
             "team2Abbr": "CYC",
             "season": 10,
             "day": 5,
@@ -2369,7 +2369,7 @@
             ]
         },
         {
-            "team1Name": "Caramel Yacht Club",
+            "team1Name": "Carmel Yacht Club",
             "team1Abbr": "CYC",
             "team2Name": "Seaside Swashbucklers",
             "team2Abbr": "SSS",
@@ -2791,7 +2791,7 @@
         {
             "team1Name": "Aptos Investigators",
             "team1Abbr": "AI",
-            "team2Name": "Caramel Yacht Club",
+            "team2Name": "Carmel Yacht Club",
             "team2Abbr": "CYC",
             "season": 10,
             "day": 7,
@@ -3209,7 +3209,7 @@
             ]
         },
         {
-            "team1Name": "Caramel Yacht Club",
+            "team1Name": "Carmel Yacht Club",
             "team1Abbr": "CYC",
             "team2Name": "Boulder Creek Cardsharps",
             "team2Abbr": "BCC",

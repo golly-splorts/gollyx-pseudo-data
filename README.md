@@ -1,3 +1,3 @@
-# golly-pseudo-data
+# gollyx-pseudo-data
 
-The Gold Mine for the Pseudo Cup.
+The Gold Mine for Pseudo Cup data.

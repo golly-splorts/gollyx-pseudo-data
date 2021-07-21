@@ -2,7 +2,7 @@ import os
 import json
 
 
-NSEASONS = 11
+LAST_SEASON0 = 11
 
 SERIES_GPD = {"LDS": 4, "LCS": 2, "HCS": 1}
 
@@ -13,7 +13,7 @@ ABBR_TO_NAME = {
 }
 
 
-for iseason in range(NSEASONS + 1):
+for iseason in range(LAST_SEASON0 + 1):
     seasondir = "season%d" % (iseason)
 
     #####################
@@ -147,7 +147,7 @@ for iseason in range(NSEASONS + 1):
         for rk in req_keys:
             if rk not in mapp:
                 raise Exception(
-                    "Error in game {game['id']} of season {game['season']} day {game['day']}: game map is missing key \"{rk}\"!"
+                    f"Error in game {game['id']} of season {game['season']} day {game['day']}: game map is missing key \"{rk}\"!"
                 )
         # for urk in unreq_keys:
         #    if urk in mapp:
@@ -158,7 +158,7 @@ for iseason in range(NSEASONS + 1):
         for rk in req_keys:
             if rk not in game:
                 raise Exception(
-                    "Error in game {game['id']} of season {game['season']} day {game['day']}: game map is missing key \"{rk}\"!"
+                    f"Error in game {game['id']} of season {game['season']} day {game['day']}: game map is missing key \"{rk}\"!"
                 )
 
         wlsum1 = game["team1WinLoss"][0] + game["team1WinLoss"][1]

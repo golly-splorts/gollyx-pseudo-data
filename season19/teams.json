@@ -1,0 +1,142 @@
+[
+    {
+        "teamAbbr": "ST",
+        "teamName": "Sutro Tower",
+        "teamColor": "#BB0000",
+        "league": "San Francisco Bay League",
+        "division": "Low Division"
+    },
+    {
+        "teamAbbr": "SGSC",
+        "teamName": "San Gregorio Sand Crabs",
+        "teamColor": "#ef6f6c",
+        "league": "San Francisco Bay League",
+        "division": "Low Division"
+    },
+    {
+        "teamAbbr": "SJA",
+        "teamName": "San Jose Avionics",
+        "teamColor": "#53917e",
+        "league": "San Francisco Bay League",
+        "division": "Low Division"
+    },
+    {
+        "teamAbbr": "MVM",
+        "teamName": "Mountain View Miners",
+        "teamColor": "#f08700",
+        "league": "San Francisco Bay League",
+        "division": "Low Division"
+    },
+    {
+        "teamAbbr": "HP",
+        "teamName": "Hayward Pipelines",
+        "teamColor": "#b0b0b0",
+        "league": "San Francisco Bay League",
+        "division": "Low Division"
+    },
+    {
+        "teamAbbr": "BBR",
+        "teamName": "Berkeley Brutalists",
+        "teamColor": "#d41199",
+        "league": "San Francisco Bay League",
+        "division": "High Division"
+    },
+    {
+        "teamAbbr": "OB",
+        "teamName": "Oakland Bees",
+        "teamColor": "#ffb627",
+        "league": "San Francisco Bay League",
+        "division": "High Division"
+    },
+    {
+        "teamAbbr": "RS",
+        "teamName": "Richmond Slicks",
+        "teamColor": "#ff1717",
+        "league": "San Francisco Bay League",
+        "division": "High Division"
+    },
+    {
+        "teamAbbr": "SBC",
+        "teamName": "Sausalito Bouncy Castles",
+        "teamColor": "#0dab76",
+        "league": "San Francisco Bay League",
+        "division": "High Division"
+    },
+    {
+        "teamAbbr": "VB",
+        "teamName": "Vallejo Barnstormers",
+        "teamColor": "#697a21",
+        "league": "San Francisco Bay League",
+        "division": "High Division"
+    },
+    {
+        "teamAbbr": "DCD",
+        "teamName": "Davenport Cliff Divers",
+        "teamColor": "#f2c57c",
+        "league": "Monterey Bay League",
+        "division": "High Division"
+    },
+    {
+        "teamAbbr": "BCC",
+        "teamName": "Boulder Creek Cardsharps",
+        "teamColor": "#00cc44",
+        "league": "Monterey Bay League",
+        "division": "High Division"
+    },
+    {
+        "teamAbbr": "FFR",
+        "teamName": "Freedom Fries",
+        "teamColor": "#a0e7e5",
+        "league": "Monterey Bay League",
+        "division": "High Division"
+    },
+    {
+        "teamAbbr": "SCB",
+        "teamName": "Santa Cruz Bananas",
+        "teamColor": "#fefe67",
+        "league": "Monterey Bay League",
+        "division": "High Division"
+    },
+    {
+        "teamAbbr": "AI",
+        "teamName": "Aptos Investigators",
+        "teamColor": "#3e92cc",
+        "league": "Monterey Bay League",
+        "division": "High Division"
+    },
+    {
+        "teamAbbr": "SSS",
+        "teamName": "Seaside Swashbucklers",
+        "teamColor": "#e86215",
+        "league": "Monterey Bay League",
+        "division": "Low Division"
+    },
+    {
+        "teamAbbr": "DD",
+        "teamName": "Moss Landing Daredevils",
+        "teamColor": "#9963ab",
+        "league": "Monterey Bay League",
+        "division": "Low Division"
+    },
+    {
+        "teamAbbr": "CYC",
+        "teamName": "Caramel Yacht Club",
+        "teamColor": "#e7d7c1",
+        "league": "Monterey Bay League",
+        "division": "Low Division"
+    },
+    {
+        "teamAbbr": "MM",
+        "teamName": "Monterey Meterologists",
+        "teamColor": "#ff66cc",
+        "league": "Monterey Bay League",
+        "division": "Low Division"
+    },
+    {
+        "teamAbbr": "SCS",
+        "teamName": "Sand City Sidewinders",
+        "teamColor": "#a0e7e8",
+        "league": "Monterey Bay League",
+        "division": "Low Division"
+    }
+]

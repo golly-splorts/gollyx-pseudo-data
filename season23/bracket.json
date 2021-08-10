@@ -1,0 +1,479 @@
+{
+    "LDS": [
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 23,
+                "team1Name": "Davenport Cliff Divers",
+                "team2Name": "Boulder Creek Cardsharps",
+                "team1Abbr": "DCD",
+                "team2Abbr": "BCC",
+                "patternName": "bigsegment",
+                "description": "Game 1, Pseudo Cup Egalitarian Eight, Monterey Bay League 1",
+                "id": "13c3f750-960e-4b4e-bac3-11806e6b2d29",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 23,
+                "team1Name": "Aptos Investigators",
+                "team2Name": "Seaside Swashbucklers",
+                "team1Abbr": "AI",
+                "team2Abbr": "SSS",
+                "patternName": "nastynonominos",
+                "description": "Game 1, Pseudo Cup Egalitarian Eight, Monterey Bay League 2",
+                "id": "3a0066c9-ba4f-4b74-85bd-24369f220a04",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 23,
+                "team1Name": "San Gregorio Sand Crabs",
+                "team2Name": "Berkeley Brutalists",
+                "team1Abbr": "SGSC",
+                "team2Abbr": "BBR",
+                "patternName": "randomsegment",
+                "description": "Game 1, Pseudo Cup Egalitarian Eight, San Francisco Bay League 1",
+                "id": "ca1812b3-a74a-409f-95b9-e014ace2ba60",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 23,
+                "team1Name": "Sausalito Bouncy Castles",
+                "team2Name": "Mountain View Miners",
+                "team1Abbr": "SBC",
+                "team2Abbr": "MVM",
+                "patternName": "stickyheptominos",
+                "description": "Game 1, Pseudo Cup Egalitarian Eight, San Francisco Bay League 2",
+                "id": "cd48bb8f-0886-444f-96c9-c6638bee861d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 23,
+                "team1Name": "Davenport Cliff Divers",
+                "team2Name": "Boulder Creek Cardsharps",
+                "team1Abbr": "DCD",
+                "team2Abbr": "BCC",
+                "patternName": "stickyheptominos",
+                "description": "Game 2, Pseudo Cup Egalitarian Eight, Monterey Bay League 1",
+                "id": "ac5eab35-9e9f-4e67-954c-dc78ff787906",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 23,
+                "team1Name": "Aptos Investigators",
+                "team2Name": "Seaside Swashbucklers",
+                "team1Abbr": "AI",
+                "team2Abbr": "SSS",
+                "patternName": "randomsegment",
+                "description": "Game 2, Pseudo Cup Egalitarian Eight, Monterey Bay League 2",
+                "id": "eb1189b3-ff78-4bed-bd9a-85e0ddec4718",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 23,
+                "team1Name": "San Gregorio Sand Crabs",
+                "team2Name": "Berkeley Brutalists",
+                "team1Abbr": "SGSC",
+                "team2Abbr": "BBR",
+                "patternName": "patiolights",
+                "description": "Game 2, Pseudo Cup Egalitarian Eight, San Francisco Bay League 1",
+                "id": "9f1e9a88-907d-4dda-8dde-28b8eee4e8b8",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 23,
+                "team1Name": "Sausalito Bouncy Castles",
+                "team2Name": "Mountain View Miners",
+                "team1Abbr": "SBC",
+                "team2Abbr": "MVM",
+                "patternName": "methuselahdense",
+                "description": "Game 2, Pseudo Cup Egalitarian Eight, San Francisco Bay League 2",
+                "id": "6f8c53bc-28b1-421b-a99d-4065bdf620db",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 23,
+                "team1Name": "Boulder Creek Cardsharps",
+                "team2Name": "Davenport Cliff Divers",
+                "team1Abbr": "BCC",
+                "team2Abbr": "DCD",
+                "patternName": "nastynonominos",
+                "description": "Game 3, Pseudo Cup Egalitarian Eight, Monterey Bay League 1",
+                "id": "fdf68a09-f548-4052-b784-e615289cdc77",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 23,
+                "team1Name": "Seaside Swashbucklers",
+                "team2Name": "Aptos Investigators",
+                "team1Abbr": "SSS",
+                "team2Abbr": "AI",
+                "patternName": "methuselahdense",
+                "description": "Game 3, Pseudo Cup Egalitarian Eight, Monterey Bay League 2",
+                "id": "d27b30da-c19f-4af9-a951-1665956e8fc1",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 23,
+                "team1Name": "Berkeley Brutalists",
+                "team2Name": "San Gregorio Sand Crabs",
+                "team1Abbr": "BBR",
+                "team2Abbr": "SGSC",
+                "patternName": "tripledouble",
+                "description": "Game 3, Pseudo Cup Egalitarian Eight, San Francisco Bay League 1",
+                "id": "ddce3e4c-1844-421f-924f-a76c70ba7f48",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 23,
+                "team1Name": "Mountain View Miners",
+                "team2Name": "Sausalito Bouncy Castles",
+                "team1Abbr": "MVM",
+                "team2Abbr": "SBC",
+                "patternName": "methuselahsparse",
+                "description": "Game 3, Pseudo Cup Egalitarian Eight, San Francisco Bay League 2",
+                "id": "69173641-0d34-4df6-8e79-9701c7ebed1b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 23,
+                "team1Name": "Boulder Creek Cardsharps",
+                "team2Name": "Davenport Cliff Divers",
+                "team1Abbr": "BCC",
+                "team2Abbr": "DCD",
+                "patternName": "tripledouble",
+                "description": "Game 4, Pseudo Cup Egalitarian Eight, Monterey Bay League 1",
+                "id": "88bb13c2-b726-4e9d-beb9-76c439991c7b",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 23,
+                "team1Name": "Seaside Swashbucklers",
+                "team2Name": "Aptos Investigators",
+                "team1Abbr": "SSS",
+                "team2Abbr": "AI",
+                "patternName": "methuselahsparse",
+                "description": "Game 4, Pseudo Cup Egalitarian Eight, Monterey Bay League 2",
+                "id": "df422dee-1909-4133-9ba2-c21a888f608f",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 23,
+                "team1Name": "Berkeley Brutalists",
+                "team2Name": "San Gregorio Sand Crabs",
+                "team1Abbr": "BBR",
+                "team2Abbr": "SGSC",
+                "patternName": "gaussian",
+                "description": "Game 4, Pseudo Cup Egalitarian Eight, San Francisco Bay League 1",
+                "id": "8972a6d1-d941-4f7a-b153-28b8b9072c44",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 23,
+                "team1Name": "Mountain View Miners",
+                "team2Name": "Sausalito Bouncy Castles",
+                "team1Abbr": "MVM",
+                "team2Abbr": "SBC",
+                "patternName": "randomsegment",
+                "description": "Game 4, Pseudo Cup Egalitarian Eight, San Francisco Bay League 2",
+                "id": "65045eb2-a281-47d9-bcf0-3bb8d0aec1a7",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 23,
+                "team1Name": "Davenport Cliff Divers",
+                "team2Name": "Boulder Creek Cardsharps",
+                "team1Abbr": "DCD",
+                "team2Abbr": "BCC",
+                "patternName": "patiolights",
+                "description": "Game 5, Pseudo Cup Egalitarian Eight, Monterey Bay League 1",
+                "id": "0dc8a70b-992d-4688-94ce-37c940463aab",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 23,
+                "team1Name": "Aptos Investigators",
+                "team2Name": "Seaside Swashbucklers",
+                "team1Abbr": "AI",
+                "team2Abbr": "SSS",
+                "patternName": "sunburst",
+                "description": "Game 5, Pseudo Cup Egalitarian Eight, Monterey Bay League 2",
+                "id": "1ec01dbc-f3f6-4996-baf8-80dacb03c76f",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 23,
+                "team1Name": "San Gregorio Sand Crabs",
+                "team2Name": "Berkeley Brutalists",
+                "team1Abbr": "SGSC",
+                "team2Abbr": "BBR",
+                "patternName": "random",
+                "description": "Game 5, Pseudo Cup Egalitarian Eight, San Francisco Bay League 1",
+                "id": "82d1ebab-73fd-43da-9ca9-96b7028d486c",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 23,
+                "team1Name": "Sausalito Bouncy Castles",
+                "team2Name": "Mountain View Miners",
+                "team1Abbr": "SBC",
+                "team2Abbr": "MVM",
+                "patternName": "tripledouble",
+                "description": "Game 5, Pseudo Cup Egalitarian Eight, San Francisco Bay League 2",
+                "id": "4946a0d9-de23-42a9-aace-4a80bbb0ebfe",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "LCS": [
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "stretchydog",
+                "league": "Monterey Bay League",
+                "season": 23,
+                "description": "Game 1, Pseudo Cup Fortuitous Four, Monterey Bay League",
+                "id": "1cadc49d-dec6-44bb-9a37-49fc0cf339d4",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randompartition",
+                "league": "San Francisco Bay League",
+                "season": 23,
+                "description": "Game 1, Pseudo Cup Fortuitous Four, San Francisco Bay League",
+                "id": "1ea910dc-ec72-4195-9cc0-49b4d43ea191",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randomsegment",
+                "league": "Monterey Bay League",
+                "season": 23,
+                "description": "Game 2, Pseudo Cup Fortuitous Four, Monterey Bay League",
+                "id": "c6162fb6-df85-49fe-8d6d-817f0e599774",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "gaussian",
+                "league": "San Francisco Bay League",
+                "season": 23,
+                "description": "Game 2, Pseudo Cup Fortuitous Four, San Francisco Bay League",
+                "id": "e6755466-89cf-4b19-80d6-6d91966acc05",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "sunburst",
+                "league": "Monterey Bay League",
+                "season": 23,
+                "description": "Game 3, Pseudo Cup Fortuitous Four, Monterey Bay League",
+                "id": "c3960454-7992-4e68-9afd-94b9299997ec",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "random",
+                "league": "San Francisco Bay League",
+                "season": 23,
+                "description": "Game 3, Pseudo Cup Fortuitous Four, San Francisco Bay League",
+                "id": "ce1a11bc-bfda-41b8-a013-73753aa4e650",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "stickyheptominos",
+                "league": "Monterey Bay League",
+                "season": 23,
+                "description": "Game 4, Pseudo Cup Fortuitous Four, Monterey Bay League",
+                "id": "e84f77b7-1c13-4ce9-9760-9855b96972b6",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "methuselahsparse",
+                "league": "San Francisco Bay League",
+                "season": 23,
+                "description": "Game 4, Pseudo Cup Fortuitous Four, San Francisco Bay League",
+                "id": "6df4e7b1-846d-4b64-9a79-d029471e13e0",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "patiolights",
+                "league": "Monterey Bay League",
+                "season": 23,
+                "description": "Game 5, Pseudo Cup Fortuitous Four, Monterey Bay League",
+                "id": "5d3060fb-f1cc-485f-870d-ddb66fe75a55",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randomsegment",
+                "league": "San Francisco Bay League",
+                "season": 23,
+                "description": "Game 5, Pseudo Cup Fortuitous Four, San Francisco Bay League",
+                "id": "b5333a42-a610-4c74-bdbb-c5850103e447",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "HCS": [
+        [
+            {
+                "team1Name": "San Francisco Bay League",
+                "team2Name": "Monterey Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "bigsegment",
+                "description": "Game 1, Pseudo Cup",
+                "season": 23,
+                "id": "93f9c607-41a9-4610-ade8-cb695569021f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "San Francisco Bay League",
+                "team2Name": "Monterey Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "stickyheptominos",
+                "description": "Game 2, Pseudo Cup",
+                "season": 23,
+                "id": "1a22efb1-6434-47c2-a4b3-3f49bad0a6c2",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Monterey Bay League",
+                "team2Name": "San Francisco Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "tripledouble",
+                "description": "Game 3, Pseudo Cup",
+                "season": 23,
+                "id": "06b928d0-ed8b-44cd-b4e5-54cdc5f3cfb1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Monterey Bay League",
+                "team2Name": "San Francisco Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "sunburst",
+                "description": "Game 4, Pseudo Cup",
+                "season": 23,
+                "id": "cb796274-dc85-4ef4-859c-dd17482e2996",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Monterey Bay League",
+                "team2Name": "San Francisco Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "patiolights",
+                "description": "Game 5, Pseudo Cup",
+                "season": 23,
+                "id": "1803b451-7dd7-4489-ab11-de2b1654ee09",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "San Francisco Bay League",
+                "team2Name": "Monterey Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "nastynonominos",
+                "description": "Game 6, Pseudo Cup",
+                "season": 23,
+                "id": "b72cd5cf-950d-48c0-ad9b-bd8f178d0d05",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "San Francisco Bay League",
+                "team2Name": "Monterey Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "methuselahsparse",
+                "description": "Game 7, Pseudo Cup",
+                "season": 23,
+                "id": "cf2b6b06-bbf3-4eb3-a8d5-b9e2a642ab81",
+                "isPostseason": true
+            }
+        ]
+    ]
+}

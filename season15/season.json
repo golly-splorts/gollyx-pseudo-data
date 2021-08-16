@@ -163,7 +163,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#ff66cc",
-            "team2Color": "#ff1717",
+            "team2Color": "#bb0000",
             "map": {
                 "patternName": "stretchydog",
                 "mapName": "Stretchydog",
@@ -469,7 +469,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#3e92cc",
-            "team2Color": "#ff1717",
+            "team2Color": "#bb0000",
             "map": {
                 "patternName": "lockpickfence",
                 "mapName": "The Locksmith",
@@ -888,7 +888,7 @@
             "id": "36ababb7-6fa4-4c52-8b05-ea63aab1be49",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#a0e7e5",
             "map": {
                 "patternName": "stretchydog",
@@ -1308,7 +1308,7 @@
             "id": "0f411257-6b21-4b34-ae40-6b632c02bc48",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#a0e7e5",
             "map": {
                 "patternName": "gaussian",
@@ -1577,7 +1577,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#fefe67",
-            "team2Color": "#ff1717",
+            "team2Color": "#bb0000",
             "map": {
                 "patternName": "sunburst",
                 "mapName": "Sunburst",
@@ -1959,7 +1959,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#9963ab",
-            "team2Color": "#ff1717",
+            "team2Color": "#bb0000",
             "map": {
                 "patternName": "random",
                 "mapName": "Northeast Hellmouth",
@@ -2455,7 +2455,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#9963ab",
-            "team2Color": "#ff1717",
+            "team2Color": "#bb0000",
             "map": {
                 "patternName": "gaussian",
                 "mapName": "The Gaussian",
@@ -2837,7 +2837,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#00cc44",
-            "team2Color": "#ff1717",
+            "team2Color": "#bb0000",
             "map": {
                 "patternName": "bigsegment",
                 "mapName": "South Perimeter",
@@ -3180,7 +3180,7 @@
             "id": "a69598bb-d41e-45c9-8e20-2db796b0d6a6",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#f2c57c",
             "map": {
                 "patternName": "randompartition",

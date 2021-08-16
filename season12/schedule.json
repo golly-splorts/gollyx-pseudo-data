@@ -67,7 +67,7 @@
             "id": "99395825-fbab-4bc0-aecc-85c1e6ba9adf",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#e86215"
         },
         {
@@ -181,7 +181,7 @@
             "id": "df813cf5-663b-4811-8a3a-97977f4870af",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#ff66cc"
         },
         {
@@ -309,7 +309,7 @@
             "id": "d303e95d-7bfb-412a-8b66-009e369a83c7",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#a0e7e5"
         },
         {
@@ -494,7 +494,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#e7d7c1",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Berkeley Brutalists",
@@ -607,7 +607,7 @@
             "id": "44c88b95-f271-46cb-bf97-e1c1f69140e4",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#f2c57c"
         },
         {
@@ -722,7 +722,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#f2c57c",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Santa Cruz Bananas",
@@ -864,7 +864,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#e7d7c1",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Davenport Cliff Divers",
@@ -1047,7 +1047,7 @@
             "id": "d53537f4-9d26-46e9-b7eb-094ab2c6f1b7",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#9963ab"
         },
         {
@@ -1162,7 +1162,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#ff66cc",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Aptos Investigators",

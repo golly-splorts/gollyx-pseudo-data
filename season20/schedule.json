@@ -40,7 +40,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#00cc44",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Monterey Meterologists",
@@ -154,7 +154,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#fefe67",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Moss Landing Daredevils",
@@ -324,7 +324,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#e7d7c1",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Seaside Swashbucklers",
@@ -438,7 +438,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#00cc44",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Santa Cruz Bananas",
@@ -579,7 +579,7 @@
             "id": "526db9ce-6daf-48af-8693-bc6d4ada8707",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#e86215"
         },
         {
@@ -722,7 +722,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#9963ab",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Aptos Investigators",
@@ -905,7 +905,7 @@
             "id": "3a40ca22-2840-4033-9871-f4498b5d57cf",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#f2c57c"
         },
         {
@@ -1033,7 +1033,7 @@
             "id": "458a6438-c3b6-4b48-a837-8fc96551883c",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#e86215"
         },
         {
@@ -1190,7 +1190,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#a0e7e5",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Moss Landing Daredevils",

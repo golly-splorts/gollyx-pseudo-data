@@ -68,7 +68,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#ff66cc",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Mountain View Miners",
@@ -182,7 +182,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#3e92cc",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Seaside Swashbucklers",
@@ -337,7 +337,7 @@
             "id": "36ababb7-6fa4-4c52-8b05-ea63aab1be49",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#a0e7e5"
         },
         {
@@ -493,7 +493,7 @@
             "id": "0f411257-6b21-4b34-ae40-6b632c02bc48",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#a0e7e5"
         },
         {
@@ -594,7 +594,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#fefe67",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Moss Landing Daredevils",
@@ -736,7 +736,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#9963ab",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Seaside Swashbucklers",
@@ -920,7 +920,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#9963ab",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Mountain View Miners",
@@ -1062,7 +1062,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#00cc44",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Vallejo Barnstormers",
@@ -1189,7 +1189,7 @@
             "id": "a69598bb-d41e-45c9-8e20-2db796b0d6a6",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#f2c57c"
         },
         {

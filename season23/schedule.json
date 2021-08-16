@@ -26,7 +26,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#a0e7e5",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Aptos Investigators",
@@ -168,7 +168,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#f2c57c",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Seaside Swashbucklers",
@@ -310,7 +310,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#ff66cc",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Boulder Creek Cardsharps",
@@ -437,7 +437,7 @@
             "id": "5e8ae573-03a9-48b5-85f9-878c89880cf8",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#3e92cc"
         },
         {
@@ -579,7 +579,7 @@
             "id": "48db60f1-2c45-4b4e-96cf-cb6edf191efc",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#e7d7c1"
         },
         {
@@ -736,7 +736,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#f2c57c",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Moss Landing Daredevils",
@@ -906,7 +906,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#e7d7c1",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Monterey Meterologists",
@@ -1047,7 +1047,7 @@
             "id": "78a00aa6-a132-4f85-a7c9-b3781496d5bf",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#00cc44"
         },
         {
@@ -1175,7 +1175,7 @@
             "id": "1939e87e-2de0-40d1-9421-76ec3dbae3cd",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#ff66cc"
         },
         {

@@ -123,7 +123,7 @@
             "id": "88f67904-5767-4c18-8f07-42f7a11d015b",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#d41199"
         },
         {
@@ -265,7 +265,7 @@
             "id": "d75f8087-f585-4779-b0dc-47c56d1d92b6",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#f08700"
         },
         {
@@ -393,7 +393,7 @@
             "id": "322e4b7d-2ae5-45eb-aa03-c609b9218aba",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#b0b0b0"
         },
         {
@@ -521,7 +521,7 @@
             "id": "a49fd3ce-6d74-4e7b-9572-fb29b958094c",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#ffb627"
         },
         {
@@ -664,7 +664,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#e8a0e7",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Berkeley Brutalists",
@@ -791,7 +791,7 @@
             "id": "2670feda-41c8-42cf-80aa-9cc702d4026c",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#697a21"
         },
         {
@@ -933,7 +933,7 @@
             "id": "2d0f1644-01ac-4918-be68-e0c1131a6621",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#697a21"
         },
         {
@@ -1075,7 +1075,7 @@
             "id": "114bbabc-b953-483a-9b50-ea548e5a550b",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#0dab76"
         },
         {
@@ -1231,7 +1231,7 @@
             "id": "05acdac9-35ae-45c7-852c-68ff32daae38",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#f08700"
         },
         {

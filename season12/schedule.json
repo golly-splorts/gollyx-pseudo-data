@@ -67,7 +67,7 @@
             "id": "99395825-fbab-4bc0-aecc-85c1e6ba9adf",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#e86215"
         },
         {
@@ -95,7 +95,7 @@
             "id": "3ccf6139-7460-47e8-bb8c-f94c7854c8b8",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#53917e"
         },
         {
@@ -181,7 +181,7 @@
             "id": "df813cf5-663b-4811-8a3a-97977f4870af",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#ff66cc"
         },
         {
@@ -251,7 +251,7 @@
             "id": "76d8e975-b47c-4501-8cda-5f58e60811c1",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#f08700"
         },
         {
@@ -309,7 +309,7 @@
             "id": "d303e95d-7bfb-412a-8b66-009e369a83c7",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#a0e7e5"
         },
         {
@@ -393,7 +393,7 @@
             "id": "7306ccec-3b66-4a96-bc24-3f0e8b4c4029",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#0dab76"
         },
         {
@@ -494,7 +494,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#e7d7c1",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Berkeley Brutalists",
@@ -522,7 +522,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#f08700",
-            "team2Color": "#ff1717"
+            "team2Color": "#e8a0e7"
         },
         {
             "team1Name": "San Gregorio Sand Crabs",
@@ -607,7 +607,7 @@
             "id": "44c88b95-f271-46cb-bf97-e1c1f69140e4",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#f2c57c"
         },
         {
@@ -649,7 +649,7 @@
             "id": "d333ac90-65c7-4704-94ed-f171b356e5b2",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#0dab76"
         },
         {
@@ -722,7 +722,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#f2c57c",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Santa Cruz Bananas",
@@ -805,7 +805,7 @@
             "id": "9742ab87-a26c-4d93-9b89-d1cbd64e1b63",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#ef6f6c"
         },
         {
@@ -864,7 +864,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#e7d7c1",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Davenport Cliff Divers",
@@ -933,7 +933,7 @@
             "id": "3ffbf081-c7b9-479e-ba60-da18605ddde8",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#ffb627"
         },
         {
@@ -1047,7 +1047,7 @@
             "id": "d53537f4-9d26-46e9-b7eb-094ab2c6f1b7",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#9963ab"
         },
         {
@@ -1117,7 +1117,7 @@
             "id": "8acaecea-91f7-4ffa-96ba-01264f6780ec",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#f08700"
         },
         {
@@ -1162,7 +1162,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Aptos Investigators",
@@ -1273,7 +1273,7 @@
             "id": "ef9bfa9e-ba24-489b-870f-962d3139c845",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#b0b0b0"
         }
     ]

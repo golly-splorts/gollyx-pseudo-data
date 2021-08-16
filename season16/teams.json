@@ -51,7 +51,7 @@
     {
         "teamAbbr": "RS",
         "teamName": "Richmond Slicks",
-        "teamColor": "#ff1717",
+        "teamColor": "#e8a0e7",
         "league": "San Francisco Bay League",
         "division": "High Division"
     },
@@ -135,7 +135,7 @@
     {
         "teamAbbr": "SCS",
         "teamName": "Sand City Sidewinders",
-        "teamColor": "#a0e7e8",
+        "teamColor": "#ff1717",
         "league": "Monterey Bay League",
         "division": "Low Division"
     }

@@ -276,7 +276,7 @@
             "id": "a141ca43-1ef6-4fce-a96f-6056923c6e15",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#ef6f6c",
             "map": {
                 "patternName": "randompartition",
@@ -620,7 +620,7 @@
             "id": "2153a593-ceb2-41d2-9539-29ed84cd1ad7",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#f08700",
             "map": {
                 "patternName": "tripledouble",
@@ -965,7 +965,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#697a21",
-            "team2Color": "#BB0000",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "randomsegment",
                 "mapName": "Candy Garden",
@@ -1423,7 +1423,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#53917e",
-            "team2Color": "#BB0000",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "tripledouble",
                 "mapName": "Triple Double",
@@ -1843,7 +1843,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#53917e",
-            "team2Color": "#BB0000",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "methuselahsparse",
                 "mapName": "Seeds",
@@ -2110,7 +2110,7 @@
             "id": "a1fcc19b-f4d1-4f9c-ad51-ffa03f27a9d7",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#e8a0e7",
             "map": {
                 "patternName": "gaussian",
@@ -2493,7 +2493,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#b0b0b0",
-            "team2Color": "#BB0000",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "methuselahdense",
                 "mapName": "Dance Hall",
@@ -2988,7 +2988,7 @@
             "id": "dea88533-34bb-42b8-a338-5912a99dfa7b",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#e8a0e7",
             "map": {
                 "patternName": "stickyheptominos",
@@ -3256,7 +3256,7 @@
             "id": "468f2b1c-b1b8-46b2-ae3a-d037b9ee36ec",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#697a21",
             "map": {
                 "patternName": "tripledouble",

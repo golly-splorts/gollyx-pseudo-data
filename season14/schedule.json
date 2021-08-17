@@ -1,7 +1,7 @@
 [
     [
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Aptos Investigators",
             "team2Abbr": "AI",
@@ -145,7 +145,7 @@
         {
             "team1Name": "Freedom Fries",
             "team1Abbr": "FFR",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "lockpickfence",
             "season": 14,
@@ -299,7 +299,7 @@
             "team2Color": "#00cc44"
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Sand City Sidewinders",
             "team2Abbr": "SCS",
@@ -457,7 +457,7 @@
         {
             "team1Name": "Boulder Creek Cardsharps",
             "team1Abbr": "BCC",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "patiolights",
             "season": 14,
@@ -613,7 +613,7 @@
         {
             "team1Name": "Boulder Creek Cardsharps",
             "team1Abbr": "BCC",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "gaussian",
             "season": 14,
@@ -727,7 +727,7 @@
         {
             "team1Name": "Freedom Fries",
             "team1Abbr": "FFR",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "stickyheptominos",
             "season": 14,
@@ -855,7 +855,7 @@
         {
             "team1Name": "Caramel Yacht Club",
             "team1Abbr": "CYC",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "patiolights",
             "season": 14,
@@ -1023,7 +1023,7 @@
             "team2Color": "#f2c57c"
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Seaside Swashbucklers",
             "team2Abbr": "SSS",
@@ -1137,7 +1137,7 @@
     ],
     [
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Seaside Swashbucklers",
             "team2Abbr": "SSS",

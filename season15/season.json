@@ -153,7 +153,7 @@
             ]
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Sand City Sidewinders",
             "team2Abbr": "SCS",
@@ -423,7 +423,7 @@
         {
             "team1Name": "Moss Landing Daredevils",
             "team1Abbr": "DD",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "season": 15,
             "day": 1,
@@ -843,7 +843,7 @@
         {
             "team1Name": "Santa Cruz Bananas",
             "team1Abbr": "SCB",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "season": 15,
             "day": 2,
@@ -1225,7 +1225,7 @@
         {
             "team1Name": "Boulder Creek Cardsharps",
             "team1Abbr": "BCC",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "season": 15,
             "day": 3,
@@ -1643,7 +1643,7 @@
             ]
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Caramel Yacht Club",
             "team2Abbr": "CYC",
@@ -2065,7 +2065,7 @@
         {
             "team1Name": "Caramel Yacht Club",
             "team1Abbr": "CYC",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "season": 15,
             "day": 5,
@@ -2409,7 +2409,7 @@
         {
             "team1Name": "Santa Cruz Bananas",
             "team1Abbr": "SCB",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "season": 15,
             "day": 6,
@@ -2675,7 +2675,7 @@
     ],
     [
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Davenport Cliff Divers",
             "team2Abbr": "DCD",
@@ -3095,7 +3095,7 @@
             ]
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Seaside Swashbucklers",
             "team2Abbr": "SSS",

@@ -43,7 +43,7 @@
             "team2Color": "#e86215"
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Santa Cruz Bananas",
             "team2Abbr": "SCB",
@@ -187,7 +187,7 @@
         {
             "team1Name": "Santa Cruz Bananas",
             "team1Abbr": "SCB",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "bigsegment",
             "season": 23,
@@ -299,7 +299,7 @@
             "team2Color": "#9963ab"
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Sand City Sidewinders",
             "team2Abbr": "SCS",
@@ -441,7 +441,7 @@
             "team2Color": "#3e92cc"
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Caramel Yacht Club",
             "team2Abbr": "CYC",
@@ -599,7 +599,7 @@
         {
             "team1Name": "Seaside Swashbucklers",
             "team1Abbr": "SSS",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "randompartition",
             "season": 23,
@@ -753,7 +753,7 @@
             "team2Color": "#e7d7c1"
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Aptos Investigators",
             "team2Abbr": "AI",
@@ -909,7 +909,7 @@
             "team2Color": "#bb0000"
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Seaside Swashbucklers",
             "team2Abbr": "SSS",
@@ -1011,7 +1011,7 @@
         {
             "team1Name": "Davenport Cliff Divers",
             "team1Abbr": "DCD",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "gaussian",
             "season": 23,
@@ -1167,7 +1167,7 @@
         {
             "team1Name": "Sand City Sidewinders",
             "team1Abbr": "SCS",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "lockpickfence",
             "season": 23,

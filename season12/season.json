@@ -39,7 +39,7 @@
             ]
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Santa Cruz Bananas",
             "team2Abbr": "SCB",
@@ -461,7 +461,7 @@
         {
             "team1Name": "Sand City Sidewinders",
             "team1Abbr": "SCS",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "season": 12,
             "day": 1,
@@ -919,7 +919,7 @@
         {
             "team1Name": "Seaside Swashbucklers",
             "team1Abbr": "SSS",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "season": 12,
             "day": 2,
@@ -1261,7 +1261,7 @@
             ]
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Aptos Investigators",
             "team2Abbr": "AI",
@@ -1645,7 +1645,7 @@
         {
             "team1Name": "Aptos Investigators",
             "team1Abbr": "AI",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "season": 12,
             "day": 4,
@@ -1987,7 +1987,7 @@
             ]
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Seaside Swashbucklers",
             "team2Abbr": "SSS",
@@ -2445,7 +2445,7 @@
             ]
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Freedom Fries",
             "team2Abbr": "FFR",
@@ -2675,7 +2675,7 @@
     ],
     [
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Aptos Investigators",
             "team2Abbr": "AI",
@@ -3095,7 +3095,7 @@
             ]
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Sand City Sidewinders",
             "team2Abbr": "SCS",

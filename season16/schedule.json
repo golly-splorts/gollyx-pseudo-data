@@ -45,7 +45,7 @@
         {
             "team1Name": "Freedom Fries",
             "team1Abbr": "FFR",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "bigsegment",
             "season": 16,
@@ -199,7 +199,7 @@
             "team2Color": "#e86215"
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Freedom Fries",
             "team2Abbr": "FFR",
@@ -299,7 +299,7 @@
             "team2Color": "#a0e7e5"
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Seaside Swashbucklers",
             "team2Abbr": "SSS",
@@ -485,7 +485,7 @@
         {
             "team1Name": "Davenport Cliff Divers",
             "team1Abbr": "DCD",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "bigsegment",
             "season": 16,
@@ -627,7 +627,7 @@
         {
             "team1Name": "Aptos Investigators",
             "team1Abbr": "AI",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "randomsegment",
             "season": 16,
@@ -741,7 +741,7 @@
         {
             "team1Name": "Sand City Sidewinders",
             "team1Abbr": "SCS",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "tripledouble",
             "season": 16,
@@ -881,7 +881,7 @@
             "team2Color": "#9963ab"
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Caramel Yacht Club",
             "team2Abbr": "CYC",
@@ -1053,7 +1053,7 @@
         {
             "team1Name": "Santa Cruz Bananas",
             "team1Abbr": "SCB",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "methuselahsparse",
             "season": 16,
@@ -1167,7 +1167,7 @@
         {
             "team1Name": "Aptos Investigators",
             "team1Abbr": "AI",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "randompartition",
             "season": 16,

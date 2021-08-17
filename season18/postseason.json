@@ -5,7 +5,7 @@
                 "league": "Monterey Bay League",
                 "season": 18,
                 "team1Name": "Davenport Cliff Divers",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "DCD",
                 "team2Abbr": "MM",
                 "description": "Game 1, Pseudo Cup Egalitarian Eight, Monterey Bay League 1",
@@ -195,7 +195,7 @@
                 "league": "Monterey Bay League",
                 "season": 18,
                 "team1Name": "Davenport Cliff Divers",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "DCD",
                 "team2Abbr": "MM",
                 "description": "Game 2, Pseudo Cup Egalitarian Eight, Monterey Bay League 1",
@@ -384,7 +384,7 @@
             {
                 "league": "Monterey Bay League",
                 "season": 18,
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Davenport Cliff Divers",
                 "team1Abbr": "MM",
                 "team2Abbr": "DCD",
@@ -574,7 +574,7 @@
             {
                 "league": "Monterey Bay League",
                 "season": 18,
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Davenport Cliff Divers",
                 "team1Abbr": "MM",
                 "team2Abbr": "DCD",
@@ -765,7 +765,7 @@
                 "league": "Monterey Bay League",
                 "season": 18,
                 "team1Name": "Davenport Cliff Divers",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "DCD",
                 "team2Abbr": "MM",
                 "description": "Game 5, Pseudo Cup Egalitarian Eight, Monterey Bay League 1",
@@ -813,7 +813,7 @@
     "LCS": [
         [
             {
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Boulder Creek Cardsharps",
                 "team1Abbr": "MM",
                 "team2Abbr": "BCC",
@@ -909,7 +909,7 @@
         ],
         [
             {
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Boulder Creek Cardsharps",
                 "team1Abbr": "MM",
                 "team2Abbr": "BCC",
@@ -1006,7 +1006,7 @@
         [
             {
                 "team1Name": "Boulder Creek Cardsharps",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "BCC",
                 "team2Abbr": "MM",
                 "league": "Monterey Bay League",
@@ -1153,7 +1153,7 @@
         [
             {
                 "team1Name": "Hayward Pipelines",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "HP",
                 "team2Abbr": "MM",
                 "description": "Game 1, Pseudo Cup",
@@ -1201,7 +1201,7 @@
         [
             {
                 "team1Name": "Hayward Pipelines",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "HP",
                 "team2Abbr": "MM",
                 "description": "Game 2, Pseudo Cup",
@@ -1248,7 +1248,7 @@
         ],
         [
             {
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Hayward Pipelines",
                 "team1Abbr": "MM",
                 "team2Abbr": "HP",
@@ -1296,7 +1296,7 @@
         ],
         [
             {
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Hayward Pipelines",
                 "team1Abbr": "MM",
                 "team2Abbr": "HP",

@@ -52,7 +52,7 @@
                 "league": "Monterey Bay League",
                 "season": 17,
                 "team1Name": "Seaside Swashbucklers",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "SSS",
                 "team2Abbr": "MM",
                 "description": "Game 1, Pseudo Cup Egalitarian Eight, Monterey Bay League 2",
@@ -242,7 +242,7 @@
                 "league": "Monterey Bay League",
                 "season": 17,
                 "team1Name": "Seaside Swashbucklers",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "SSS",
                 "team2Abbr": "MM",
                 "description": "Game 2, Pseudo Cup Egalitarian Eight, Monterey Bay League 2",
@@ -431,7 +431,7 @@
             {
                 "league": "Monterey Bay League",
                 "season": 17,
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Seaside Swashbucklers",
                 "team1Abbr": "MM",
                 "team2Abbr": "SSS",
@@ -621,7 +621,7 @@
             {
                 "league": "Monterey Bay League",
                 "season": 17,
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Seaside Swashbucklers",
                 "team1Abbr": "MM",
                 "team2Abbr": "SSS",
@@ -812,7 +812,7 @@
                 "league": "Monterey Bay League",
                 "season": 17,
                 "team1Name": "Seaside Swashbucklers",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "SSS",
                 "team2Abbr": "MM",
                 "description": "Game 5, Pseudo Cup Egalitarian Eight, Monterey Bay League 2",
@@ -908,7 +908,7 @@
         [
             {
                 "team1Name": "Santa Cruz Bananas",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "SCB",
                 "team2Abbr": "MM",
                 "league": "Monterey Bay League",
@@ -1004,7 +1004,7 @@
         [
             {
                 "team1Name": "Santa Cruz Bananas",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "SCB",
                 "team2Abbr": "MM",
                 "league": "Monterey Bay League",
@@ -1099,7 +1099,7 @@
         ],
         [
             {
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Santa Cruz Bananas",
                 "team1Abbr": "MM",
                 "team2Abbr": "SCB",
@@ -1195,7 +1195,7 @@
         ],
         [
             {
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Santa Cruz Bananas",
                 "team1Abbr": "MM",
                 "team2Abbr": "SCB",
@@ -1245,7 +1245,7 @@
         [
             {
                 "team1Name": "Santa Cruz Bananas",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "SCB",
                 "team2Abbr": "MM",
                 "league": "Monterey Bay League",
@@ -1295,7 +1295,7 @@
     "HCS": [
         [
             {
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Sutro Tower",
                 "team1Abbr": "MM",
                 "team2Abbr": "ST",
@@ -1343,7 +1343,7 @@
         ],
         [
             {
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Sutro Tower",
                 "team1Abbr": "MM",
                 "team2Abbr": "ST",
@@ -1392,7 +1392,7 @@
         [
             {
                 "team1Name": "Sutro Tower",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "ST",
                 "team2Abbr": "MM",
                 "description": "Game 3, Pseudo Cup",
@@ -1440,7 +1440,7 @@
         [
             {
                 "team1Name": "Sutro Tower",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "ST",
                 "team2Abbr": "MM",
                 "description": "Game 4, Pseudo Cup",
@@ -1488,7 +1488,7 @@
         [
             {
                 "team1Name": "Sutro Tower",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "ST",
                 "team2Abbr": "MM",
                 "description": "Game 5, Pseudo Cup",
@@ -1535,7 +1535,7 @@
         ],
         [
             {
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Sutro Tower",
                 "team1Abbr": "MM",
                 "team2Abbr": "ST",
@@ -1583,7 +1583,7 @@
         ],
         [
             {
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Sutro Tower",
                 "team1Abbr": "MM",
                 "team2Abbr": "ST",

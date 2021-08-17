@@ -1,7 +1,7 @@
 [
     [
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Sand City Sidewinders",
             "team2Abbr": "SCS",
@@ -173,7 +173,7 @@
         {
             "team1Name": "Moss Landing Daredevils",
             "team1Abbr": "DD",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "tripledouble",
             "season": 22,
@@ -343,7 +343,7 @@
         {
             "team1Name": "Davenport Cliff Divers",
             "team1Abbr": "DCD",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "bigsegment",
             "season": 22,
@@ -443,7 +443,7 @@
         {
             "team1Name": "Boulder Creek Cardsharps",
             "team1Abbr": "BCC",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "methuselahsparse",
             "season": 22,
@@ -625,7 +625,7 @@
             "team2Color": "#a0e7e5"
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Caramel Yacht Club",
             "team2Abbr": "CYC",
@@ -769,7 +769,7 @@
         {
             "team1Name": "Boulder Creek Cardsharps",
             "team1Abbr": "BCC",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "bigsegment",
             "season": 22,
@@ -883,7 +883,7 @@
         {
             "team1Name": "Aptos Investigators",
             "team1Abbr": "AI",
-            "team2Name": "Monterey Meterologists",
+            "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "patiolights",
             "season": 22,
@@ -1023,7 +1023,7 @@
             "team2Color": "#3e92cc"
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Moss Landing Daredevils",
             "team2Abbr": "DD",
@@ -1165,7 +1165,7 @@
             "team2Color": "#f2c57c"
         },
         {
-            "team1Name": "Monterey Meterologists",
+            "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
             "team2Name": "Freedom Fries",
             "team2Abbr": "FFR",

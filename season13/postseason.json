@@ -51,7 +51,7 @@
             {
                 "league": "Monterey Bay League",
                 "season": 13,
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Caramel Yacht Club",
                 "team1Abbr": "MM",
                 "team2Abbr": "CYC",
@@ -241,7 +241,7 @@
             {
                 "league": "Monterey Bay League",
                 "season": 13,
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Caramel Yacht Club",
                 "team1Abbr": "MM",
                 "team2Abbr": "CYC",
@@ -432,7 +432,7 @@
                 "league": "Monterey Bay League",
                 "season": 13,
                 "team1Name": "Caramel Yacht Club",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "CYC",
                 "team2Abbr": "MM",
                 "description": "Game 3, Pseudo Cup Egalitarian Eight, Monterey Bay League 2",
@@ -575,7 +575,7 @@
         [
             {
                 "team1Name": "Moss Landing Daredevils",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "DD",
                 "team2Abbr": "MM",
                 "league": "Monterey Bay League",
@@ -671,7 +671,7 @@
         [
             {
                 "team1Name": "Moss Landing Daredevils",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "DD",
                 "team2Abbr": "MM",
                 "league": "Monterey Bay League",
@@ -766,7 +766,7 @@
         ],
         [
             {
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Moss Landing Daredevils",
                 "team1Abbr": "MM",
                 "team2Abbr": "DD",
@@ -862,7 +862,7 @@
         ],
         [
             {
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Moss Landing Daredevils",
                 "team1Abbr": "MM",
                 "team2Abbr": "DD",
@@ -960,7 +960,7 @@
     "HCS": [
         [
             {
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Mountain View Miners",
                 "team1Abbr": "MM",
                 "team2Abbr": "MVM",
@@ -1008,7 +1008,7 @@
         ],
         [
             {
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Mountain View Miners",
                 "team1Abbr": "MM",
                 "team2Abbr": "MVM",
@@ -1057,7 +1057,7 @@
         [
             {
                 "team1Name": "Mountain View Miners",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "MVM",
                 "team2Abbr": "MM",
                 "description": "Game 3, Pseudo Cup",
@@ -1105,7 +1105,7 @@
         [
             {
                 "team1Name": "Mountain View Miners",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "MVM",
                 "team2Abbr": "MM",
                 "description": "Game 4, Pseudo Cup",
@@ -1153,7 +1153,7 @@
         [
             {
                 "team1Name": "Mountain View Miners",
-                "team2Name": "Monterey Meterologists",
+                "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "MVM",
                 "team2Abbr": "MM",
                 "description": "Game 5, Pseudo Cup",
@@ -1200,7 +1200,7 @@
         ],
         [
             {
-                "team1Name": "Monterey Meterologists",
+                "team1Name": "Monterey Meteorologists",
                 "team2Name": "Mountain View Miners",
                 "team1Abbr": "MM",
                 "team2Abbr": "MVM",

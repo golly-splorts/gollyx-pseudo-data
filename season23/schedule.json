@@ -59,7 +59,7 @@
         {
             "team1Name": "Boulder Creek Cardsharps",
             "team1Abbr": "BCC",
-            "team2Name": "Caramel Yacht Club",
+            "team2Name": "Carmel Yacht Club",
             "team2Abbr": "CYC",
             "patternName": "randompartition",
             "season": 23,
@@ -143,7 +143,7 @@
     ],
     [
         {
-            "team1Name": "Caramel Yacht Club",
+            "team1Name": "Carmel Yacht Club",
             "team1Abbr": "CYC",
             "team2Name": "Aptos Investigators",
             "team2Abbr": "AI",
@@ -343,7 +343,7 @@
         {
             "team1Name": "Freedom Fries",
             "team1Abbr": "FFR",
-            "team2Name": "Caramel Yacht Club",
+            "team2Name": "Carmel Yacht Club",
             "team2Abbr": "CYC",
             "patternName": "patiolights",
             "season": 23,
@@ -443,7 +443,7 @@
         {
             "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
-            "team2Name": "Caramel Yacht Club",
+            "team2Name": "Carmel Yacht Club",
             "team2Abbr": "CYC",
             "patternName": "stretchydog",
             "season": 23,
@@ -571,7 +571,7 @@
         {
             "team1Name": "Sand City Sidewinders",
             "team1Abbr": "SCS",
-            "team2Name": "Caramel Yacht Club",
+            "team2Name": "Carmel Yacht Club",
             "team2Abbr": "CYC",
             "patternName": "bigsegment",
             "season": 23,
@@ -741,7 +741,7 @@
         {
             "team1Name": "Moss Landing Daredevils",
             "team1Abbr": "DD",
-            "team2Name": "Caramel Yacht Club",
+            "team2Name": "Carmel Yacht Club",
             "team2Abbr": "CYC",
             "patternName": "bigsegment",
             "season": 23,
@@ -895,7 +895,7 @@
             "team2Color": "#a0e7e5"
         },
         {
-            "team1Name": "Caramel Yacht Club",
+            "team1Name": "Carmel Yacht Club",
             "team1Abbr": "CYC",
             "team2Name": "Sand City Sidewinders",
             "team2Abbr": "SCS",
@@ -1051,7 +1051,7 @@
             "team2Color": "#00cc44"
         },
         {
-            "team1Name": "Caramel Yacht Club",
+            "team1Name": "Carmel Yacht Club",
             "team1Abbr": "CYC",
             "team2Name": "Aptos Investigators",
             "team2Abbr": "AI",
@@ -1179,7 +1179,7 @@
             "team2Color": "#ff66cc"
         },
         {
-            "team1Name": "Caramel Yacht Club",
+            "team1Name": "Carmel Yacht Club",
             "team1Abbr": "CYC",
             "team2Name": "Aptos Investigators",
             "team2Abbr": "AI",

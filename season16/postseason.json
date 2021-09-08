@@ -5,7 +5,7 @@
                 "league": "Monterey Bay League",
                 "season": 16,
                 "team1Name": "Boulder Creek Cardsharps",
-                "team2Name": "Caramel Yacht Club",
+                "team2Name": "Carmel Yacht Club",
                 "team1Abbr": "BCC",
                 "team2Abbr": "CYC",
                 "description": "Game 1, Pseudo Cup Egalitarian Eight, Monterey Bay League 1",
@@ -195,7 +195,7 @@
                 "league": "Monterey Bay League",
                 "season": 16,
                 "team1Name": "Boulder Creek Cardsharps",
-                "team2Name": "Caramel Yacht Club",
+                "team2Name": "Carmel Yacht Club",
                 "team1Abbr": "BCC",
                 "team2Abbr": "CYC",
                 "description": "Game 2, Pseudo Cup Egalitarian Eight, Monterey Bay League 1",
@@ -384,7 +384,7 @@
             {
                 "league": "Monterey Bay League",
                 "season": 16,
-                "team1Name": "Caramel Yacht Club",
+                "team1Name": "Carmel Yacht Club",
                 "team2Name": "Boulder Creek Cardsharps",
                 "team1Abbr": "CYC",
                 "team2Abbr": "BCC",
@@ -574,7 +574,7 @@
             {
                 "league": "Monterey Bay League",
                 "season": 16,
-                "team1Name": "Caramel Yacht Club",
+                "team1Name": "Carmel Yacht Club",
                 "team2Name": "Boulder Creek Cardsharps",
                 "team1Abbr": "CYC",
                 "team2Abbr": "BCC",
@@ -719,7 +719,7 @@
     "LCS": [
         [
             {
-                "team1Name": "Caramel Yacht Club",
+                "team1Name": "Carmel Yacht Club",
                 "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "CYC",
                 "team2Abbr": "MM",
@@ -815,7 +815,7 @@
         ],
         [
             {
-                "team1Name": "Caramel Yacht Club",
+                "team1Name": "Carmel Yacht Club",
                 "team2Name": "Monterey Meteorologists",
                 "team1Abbr": "CYC",
                 "team2Abbr": "MM",
@@ -912,7 +912,7 @@
         [
             {
                 "team1Name": "Monterey Meteorologists",
-                "team2Name": "Caramel Yacht Club",
+                "team2Name": "Carmel Yacht Club",
                 "team1Abbr": "MM",
                 "team2Abbr": "CYC",
                 "league": "Monterey Bay League",
@@ -1059,7 +1059,7 @@
         [
             {
                 "team1Name": "Oakland Bees",
-                "team2Name": "Caramel Yacht Club",
+                "team2Name": "Carmel Yacht Club",
                 "team1Abbr": "OB",
                 "team2Abbr": "CYC",
                 "description": "Game 1, Pseudo Cup",
@@ -1107,7 +1107,7 @@
         [
             {
                 "team1Name": "Oakland Bees",
-                "team2Name": "Caramel Yacht Club",
+                "team2Name": "Carmel Yacht Club",
                 "team1Abbr": "OB",
                 "team2Abbr": "CYC",
                 "description": "Game 2, Pseudo Cup",
@@ -1154,7 +1154,7 @@
         ],
         [
             {
-                "team1Name": "Caramel Yacht Club",
+                "team1Name": "Carmel Yacht Club",
                 "team2Name": "Oakland Bees",
                 "team1Abbr": "CYC",
                 "team2Abbr": "OB",
@@ -1202,7 +1202,7 @@
         ],
         [
             {
-                "team1Name": "Caramel Yacht Club",
+                "team1Name": "Carmel Yacht Club",
                 "team2Name": "Oakland Bees",
                 "team1Abbr": "CYC",
                 "team2Abbr": "OB",
@@ -1250,7 +1250,7 @@
         ],
         [
             {
-                "team1Name": "Caramel Yacht Club",
+                "team1Name": "Carmel Yacht Club",
                 "team2Name": "Oakland Bees",
                 "team1Abbr": "CYC",
                 "team2Abbr": "OB",

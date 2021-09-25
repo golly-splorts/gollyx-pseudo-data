@@ -52,9 +52,9 @@
                 "league": "Monterey Bay League",
                 "season": 23,
                 "team1Name": "Aptos Investigators",
-                "team2Name": "Seaside Swashbucklers",
+                "team2Name": "Pacific Grove Monarchists",
                 "team1Abbr": "AI",
-                "team2Abbr": "SSS",
+                "team2Abbr": "PGM",
                 "description": "Game 1, Pseudo Cup Egalitarian Eight, Monterey Bay League 2",
                 "id": "3a0066c9-ba4f-4b74-85bd-24369f220a04",
                 "isPostseason": true,
@@ -242,9 +242,9 @@
                 "league": "Monterey Bay League",
                 "season": 23,
                 "team1Name": "Aptos Investigators",
-                "team2Name": "Seaside Swashbucklers",
+                "team2Name": "Pacific Grove Monarchists",
                 "team1Abbr": "AI",
-                "team2Abbr": "SSS",
+                "team2Abbr": "PGM",
                 "description": "Game 2, Pseudo Cup Egalitarian Eight, Monterey Bay League 2",
                 "id": "eb1189b3-ff78-4bed-bd9a-85e0ddec4718",
                 "isPostseason": true,
@@ -431,9 +431,9 @@
             {
                 "league": "Monterey Bay League",
                 "season": 23,
-                "team1Name": "Seaside Swashbucklers",
+                "team1Name": "Pacific Grove Monarchists",
                 "team2Name": "Aptos Investigators",
-                "team1Abbr": "SSS",
+                "team1Abbr": "PGM",
                 "team2Abbr": "AI",
                 "description": "Game 3, Pseudo Cup Egalitarian Eight, Monterey Bay League 2",
                 "id": "d27b30da-c19f-4af9-a951-1665956e8fc1",
@@ -621,9 +621,9 @@
             {
                 "league": "Monterey Bay League",
                 "season": 23,
-                "team1Name": "Seaside Swashbucklers",
+                "team1Name": "Pacific Grove Monarchists",
                 "team2Name": "Aptos Investigators",
-                "team1Abbr": "SSS",
+                "team1Abbr": "PGM",
                 "team2Abbr": "AI",
                 "description": "Game 4, Pseudo Cup Egalitarian Eight, Monterey Bay League 2",
                 "id": "df422dee-1909-4133-9ba2-c21a888f608f",
@@ -671,9 +671,9 @@
                 "league": "Monterey Bay League",
                 "season": 23,
                 "team1Name": "Aptos Investigators",
-                "team2Name": "Seaside Swashbucklers",
+                "team2Name": "Pacific Grove Monarchists",
                 "team1Abbr": "AI",
-                "team2Abbr": "SSS",
+                "team2Abbr": "PGM",
                 "description": "Game 5, Pseudo Cup Egalitarian Eight, Monterey Bay League 2",
                 "id": "1ec01dbc-f3f6-4996-baf8-80dacb03c76f",
                 "isPostseason": true,
@@ -720,9 +720,9 @@
         [
             {
                 "team1Name": "Davenport Cliff Divers",
-                "team2Name": "Seaside Swashbucklers",
+                "team2Name": "Pacific Grove Monarchists",
                 "team1Abbr": "DCD",
-                "team2Abbr": "SSS",
+                "team2Abbr": "PGM",
                 "league": "Monterey Bay League",
                 "season": 23,
                 "description": "Game 1, Pseudo Cup Fortuitous Four, Monterey Bay League",
@@ -816,9 +816,9 @@
         [
             {
                 "team1Name": "Davenport Cliff Divers",
-                "team2Name": "Seaside Swashbucklers",
+                "team2Name": "Pacific Grove Monarchists",
                 "team1Abbr": "DCD",
-                "team2Abbr": "SSS",
+                "team2Abbr": "PGM",
                 "league": "Monterey Bay League",
                 "season": 23,
                 "description": "Game 2, Pseudo Cup Fortuitous Four, Monterey Bay League",
@@ -911,9 +911,9 @@
         ],
         [
             {
-                "team1Name": "Seaside Swashbucklers",
+                "team1Name": "Pacific Grove Monarchists",
                 "team2Name": "Davenport Cliff Divers",
-                "team1Abbr": "SSS",
+                "team1Abbr": "PGM",
                 "team2Abbr": "DCD",
                 "league": "Monterey Bay League",
                 "season": 23,
@@ -1007,9 +1007,9 @@
         ],
         [
             {
-                "team1Name": "Seaside Swashbucklers",
+                "team1Name": "Pacific Grove Monarchists",
                 "team2Name": "Davenport Cliff Divers",
-                "team1Abbr": "SSS",
+                "team1Abbr": "PGM",
                 "team2Abbr": "DCD",
                 "league": "Monterey Bay League",
                 "season": 23,
@@ -1106,9 +1106,9 @@
         [
             {
                 "team1Name": "Mountain View Miners",
-                "team2Name": "Seaside Swashbucklers",
+                "team2Name": "Pacific Grove Monarchists",
                 "team1Abbr": "MVM",
-                "team2Abbr": "SSS",
+                "team2Abbr": "PGM",
                 "description": "Game 1, Pseudo Cup",
                 "season": 23,
                 "id": "93f9c607-41a9-4610-ade8-cb695569021f",
@@ -1154,9 +1154,9 @@
         [
             {
                 "team1Name": "Mountain View Miners",
-                "team2Name": "Seaside Swashbucklers",
+                "team2Name": "Pacific Grove Monarchists",
                 "team1Abbr": "MVM",
-                "team2Abbr": "SSS",
+                "team2Abbr": "PGM",
                 "description": "Game 2, Pseudo Cup",
                 "season": 23,
                 "id": "1a22efb1-6434-47c2-a4b3-3f49bad0a6c2",
@@ -1201,9 +1201,9 @@
         ],
         [
             {
-                "team1Name": "Seaside Swashbucklers",
+                "team1Name": "Pacific Grove Monarchists",
                 "team2Name": "Mountain View Miners",
-                "team1Abbr": "SSS",
+                "team1Abbr": "PGM",
                 "team2Abbr": "MVM",
                 "description": "Game 3, Pseudo Cup",
                 "season": 23,
@@ -1249,9 +1249,9 @@
         ],
         [
             {
-                "team1Name": "Seaside Swashbucklers",
+                "team1Name": "Pacific Grove Monarchists",
                 "team2Name": "Mountain View Miners",
-                "team1Abbr": "SSS",
+                "team1Abbr": "PGM",
                 "team2Abbr": "MVM",
                 "description": "Game 4, Pseudo Cup",
                 "season": 23,
@@ -1297,9 +1297,9 @@
         ],
         [
             {
-                "team1Name": "Seaside Swashbucklers",
+                "team1Name": "Pacific Grove Monarchists",
                 "team2Name": "Mountain View Miners",
-                "team1Abbr": "SSS",
+                "team1Abbr": "PGM",
                 "team2Abbr": "MVM",
                 "description": "Game 5, Pseudo Cup",
                 "season": 23,
@@ -1346,9 +1346,9 @@
         [
             {
                 "team1Name": "Mountain View Miners",
-                "team2Name": "Seaside Swashbucklers",
+                "team2Name": "Pacific Grove Monarchists",
                 "team1Abbr": "MVM",
-                "team2Abbr": "SSS",
+                "team2Abbr": "PGM",
                 "description": "Game 6, Pseudo Cup",
                 "season": 23,
                 "id": "b72cd5cf-950d-48c0-ad9b-bd8f178d0d05",

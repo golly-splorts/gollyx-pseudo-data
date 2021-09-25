@@ -43,8 +43,8 @@
             "team2Color": "#3e92cc"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGM",
             "team2Name": "Santa Cruz Bananas",
             "team2Abbr": "SCB",
             "patternName": "sunburst",
@@ -187,8 +187,8 @@
         {
             "team1Name": "Sand City Sidewinders",
             "team1Abbr": "SCS",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGM",
             "patternName": "randomsegment",
             "season": 21,
             "day": 1,
@@ -313,8 +313,8 @@
             "team2Color": "#ff66cc"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGM",
             "team2Name": "Aptos Investigators",
             "team2Abbr": "AI",
             "patternName": "tripledouble",
@@ -483,8 +483,8 @@
             "team2Color": "#a0e7e8"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGM",
             "team2Name": "Moss Landing Daredevils",
             "team2Abbr": "DD",
             "patternName": "lockpickfence",
@@ -627,8 +627,8 @@
         {
             "team1Name": "Moss Landing Daredevils",
             "team1Abbr": "DD",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGM",
             "patternName": "nastynonominos",
             "season": 21,
             "day": 4,
@@ -741,8 +741,8 @@
         {
             "team1Name": "Sand City Sidewinders",
             "team1Abbr": "SCS",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGM",
             "patternName": "tripledouble",
             "season": 21,
             "day": 5,
@@ -909,8 +909,8 @@
             "team2Color": "#f2c57c"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGM",
             "team2Name": "Caramel Yacht Club",
             "team2Abbr": "CYC",
             "patternName": "random",
@@ -1037,8 +1037,8 @@
             "team2Color": "#fefe67"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGM",
             "team2Name": "Davenport Cliff Divers",
             "team2Abbr": "DCD",
             "patternName": "lockpickfence",
@@ -1181,8 +1181,8 @@
         {
             "team1Name": "Santa Cruz Bananas",
             "team1Abbr": "SCB",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGM",
             "patternName": "randompartition",
             "season": 21,
             "day": 8,

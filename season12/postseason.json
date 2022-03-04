@@ -9,7 +9,7 @@
                 "team1Abbr": "SCS",
                 "team2Abbr": "MM",
                 "description": "Game 1, Pseudo Cup Egalitarian Eight, Monterey Bay League 1",
-                "id": "d40bf94b-7f19-4981-9aff-9f09d6bc1a28",
+                "gameid": "d40bf94b-7f19-4981-9aff-9f09d6bc1a28",
                 "isPostseason": true,
                 "map": {
                     "patternName": "sunburst",
@@ -56,7 +56,7 @@
                 "team1Abbr": "CYC",
                 "team2Abbr": "AI",
                 "description": "Game 1, Pseudo Cup Egalitarian Eight, Monterey Bay League 2",
-                "id": "89b36e00-3e39-4311-a3aa-01837116fd48",
+                "gameid": "89b36e00-3e39-4311-a3aa-01837116fd48",
                 "isPostseason": true,
                 "map": {
                     "patternName": "stickyheptominos",
@@ -103,7 +103,7 @@
                 "team1Abbr": "MVM",
                 "team2Abbr": "RS",
                 "description": "Game 1, Pseudo Cup Egalitarian Eight, San Francisco Bay League 1",
-                "id": "58d2bbe7-d282-4cd8-9b55-f6061d364339",
+                "gameid": "58d2bbe7-d282-4cd8-9b55-f6061d364339",
                 "isPostseason": true,
                 "map": {
                     "patternName": "methuselahsparse",
@@ -150,7 +150,7 @@
                 "team1Abbr": "HP",
                 "team2Abbr": "OB",
                 "description": "Game 1, Pseudo Cup Egalitarian Eight, San Francisco Bay League 2",
-                "id": "dd6f6b91-ac1e-4ee5-904c-cab99723497a",
+                "gameid": "dd6f6b91-ac1e-4ee5-904c-cab99723497a",
                 "isPostseason": true,
                 "map": {
                     "patternName": "random",
@@ -199,7 +199,7 @@
                 "team1Abbr": "SCS",
                 "team2Abbr": "MM",
                 "description": "Game 2, Pseudo Cup Egalitarian Eight, Monterey Bay League 1",
-                "id": "5e52d1e6-7556-46ec-9730-27d09140d4e4",
+                "gameid": "5e52d1e6-7556-46ec-9730-27d09140d4e4",
                 "isPostseason": true,
                 "map": {
                     "patternName": "sunburst",
@@ -246,7 +246,7 @@
                 "team1Abbr": "CYC",
                 "team2Abbr": "AI",
                 "description": "Game 2, Pseudo Cup Egalitarian Eight, Monterey Bay League 2",
-                "id": "dd49fc5b-4da8-4393-a455-893fc7677d06",
+                "gameid": "dd49fc5b-4da8-4393-a455-893fc7677d06",
                 "isPostseason": true,
                 "map": {
                     "patternName": "patiolights",
@@ -293,7 +293,7 @@
                 "team1Abbr": "MVM",
                 "team2Abbr": "RS",
                 "description": "Game 2, Pseudo Cup Egalitarian Eight, San Francisco Bay League 1",
-                "id": "709de0d3-b476-4f37-8c36-ac60c7318d78",
+                "gameid": "709de0d3-b476-4f37-8c36-ac60c7318d78",
                 "isPostseason": true,
                 "map": {
                     "patternName": "nastynonominos",
@@ -340,7 +340,7 @@
                 "team1Abbr": "HP",
                 "team2Abbr": "OB",
                 "description": "Game 2, Pseudo Cup Egalitarian Eight, San Francisco Bay League 2",
-                "id": "8d429e2a-efcb-44a1-8050-428088a8dc5e",
+                "gameid": "8d429e2a-efcb-44a1-8050-428088a8dc5e",
                 "isPostseason": true,
                 "map": {
                     "patternName": "gaussian",
@@ -389,7 +389,7 @@
                 "team1Abbr": "MM",
                 "team2Abbr": "SCS",
                 "description": "Game 3, Pseudo Cup Egalitarian Eight, Monterey Bay League 1",
-                "id": "e975bad6-9983-4c7f-b32d-64bcd25f9393",
+                "gameid": "e975bad6-9983-4c7f-b32d-64bcd25f9393",
                 "isPostseason": true,
                 "map": {
                     "patternName": "randomsegment",
@@ -436,7 +436,7 @@
                 "team1Abbr": "AI",
                 "team2Abbr": "CYC",
                 "description": "Game 3, Pseudo Cup Egalitarian Eight, Monterey Bay League 2",
-                "id": "f262a2c2-c706-44b5-a785-eb4a9b821a66",
+                "gameid": "f262a2c2-c706-44b5-a785-eb4a9b821a66",
                 "isPostseason": true,
                 "map": {
                     "patternName": "random",
@@ -483,7 +483,7 @@
                 "team1Abbr": "RS",
                 "team2Abbr": "MVM",
                 "description": "Game 3, Pseudo Cup Egalitarian Eight, San Francisco Bay League 1",
-                "id": "4ba56cd9-2bb1-48d6-9224-e9e5cbb18e76",
+                "gameid": "4ba56cd9-2bb1-48d6-9224-e9e5cbb18e76",
                 "isPostseason": true,
                 "map": {
                     "patternName": "methuselahsparse",
@@ -530,7 +530,7 @@
                 "team1Abbr": "OB",
                 "team2Abbr": "HP",
                 "description": "Game 3, Pseudo Cup Egalitarian Eight, San Francisco Bay League 2",
-                "id": "54567f7b-d464-4fbf-bf3e-5c691d2be96a",
+                "gameid": "54567f7b-d464-4fbf-bf3e-5c691d2be96a",
                 "isPostseason": true,
                 "map": {
                     "patternName": "lockpickfence",
@@ -579,7 +579,7 @@
                 "team1Abbr": "MM",
                 "team2Abbr": "SCS",
                 "description": "Game 4, Pseudo Cup Egalitarian Eight, Monterey Bay League 1",
-                "id": "84892a55-a3f5-4045-8bbd-afb986de2bcd",
+                "gameid": "84892a55-a3f5-4045-8bbd-afb986de2bcd",
                 "isPostseason": true,
                 "map": {
                     "patternName": "sunburst",
@@ -626,7 +626,7 @@
                 "team1Abbr": "RS",
                 "team2Abbr": "MVM",
                 "description": "Game 4, Pseudo Cup Egalitarian Eight, San Francisco Bay League 1",
-                "id": "b479d7c1-237d-40f9-b4b4-5aff69f02202",
+                "gameid": "b479d7c1-237d-40f9-b4b4-5aff69f02202",
                 "isPostseason": true,
                 "map": {
                     "patternName": "patiolights",
@@ -675,7 +675,7 @@
                 "team1Abbr": "MVM",
                 "team2Abbr": "RS",
                 "description": "Game 5, Pseudo Cup Egalitarian Eight, San Francisco Bay League 1",
-                "id": "e5ce4c8a-d9cf-4977-8dfb-c5e68c8bb55d",
+                "gameid": "e5ce4c8a-d9cf-4977-8dfb-c5e68c8bb55d",
                 "isPostseason": true,
                 "map": {
                     "patternName": "randompartition",
@@ -726,7 +726,7 @@
                 "league": "Monterey Bay League",
                 "season": 12,
                 "description": "Game 1, Pseudo Cup Fortuitous Four, Monterey Bay League",
-                "id": "9f06c1fb-1eac-4f65-89bc-849291817c6b",
+                "gameid": "9f06c1fb-1eac-4f65-89bc-849291817c6b",
                 "isPostseason": true,
                 "map": {
                     "patternName": "randompartition",
@@ -773,7 +773,7 @@
                 "league": "San Francisco Bay League",
                 "season": 12,
                 "description": "Game 1, Pseudo Cup Fortuitous Four, San Francisco Bay League",
-                "id": "69b517cb-f4b3-46fa-a780-e2777ddf0deb",
+                "gameid": "69b517cb-f4b3-46fa-a780-e2777ddf0deb",
                 "isPostseason": true,
                 "map": {
                     "patternName": "sunburst",
@@ -822,7 +822,7 @@
                 "league": "Monterey Bay League",
                 "season": 12,
                 "description": "Game 2, Pseudo Cup Fortuitous Four, Monterey Bay League",
-                "id": "7d1141be-57e0-4ea7-abd7-21c341d849e4",
+                "gameid": "7d1141be-57e0-4ea7-abd7-21c341d849e4",
                 "isPostseason": true,
                 "map": {
                     "patternName": "randomsegment",
@@ -869,7 +869,7 @@
                 "league": "San Francisco Bay League",
                 "season": 12,
                 "description": "Game 2, Pseudo Cup Fortuitous Four, San Francisco Bay League",
-                "id": "dbd74948-82d7-4bd7-911b-1959a62c1e7c",
+                "gameid": "dbd74948-82d7-4bd7-911b-1959a62c1e7c",
                 "isPostseason": true,
                 "map": {
                     "patternName": "methuselahdense",
@@ -918,7 +918,7 @@
                 "league": "Monterey Bay League",
                 "season": 12,
                 "description": "Game 3, Pseudo Cup Fortuitous Four, Monterey Bay League",
-                "id": "523f070e-a82b-4b4a-8e82-9edc15007c86",
+                "gameid": "523f070e-a82b-4b4a-8e82-9edc15007c86",
                 "isPostseason": true,
                 "map": {
                     "patternName": "patiolights",
@@ -965,7 +965,7 @@
                 "league": "San Francisco Bay League",
                 "season": 12,
                 "description": "Game 3, Pseudo Cup Fortuitous Four, San Francisco Bay League",
-                "id": "a87766cc-af0e-453f-aa24-079870579b80",
+                "gameid": "a87766cc-af0e-453f-aa24-079870579b80",
                 "isPostseason": true,
                 "map": {
                     "patternName": "methuselahsparse",
@@ -1014,7 +1014,7 @@
                 "league": "Monterey Bay League",
                 "season": 12,
                 "description": "Game 4, Pseudo Cup Fortuitous Four, Monterey Bay League",
-                "id": "15ae33c4-0a09-4962-b77b-72aa7216cf09",
+                "gameid": "15ae33c4-0a09-4962-b77b-72aa7216cf09",
                 "isPostseason": true,
                 "map": {
                     "patternName": "stickyheptominos",
@@ -1064,7 +1064,7 @@
                 "team2Abbr": "SCS",
                 "description": "Game 1, Pseudo Cup",
                 "season": 12,
-                "id": "f9f4135c-e1ba-4e84-94a3-24ba78f12417",
+                "gameid": "f9f4135c-e1ba-4e84-94a3-24ba78f12417",
                 "isPostseason": true,
                 "map": {
                     "patternName": "methuselahsparse",
@@ -1112,7 +1112,7 @@
                 "team2Abbr": "SCS",
                 "description": "Game 2, Pseudo Cup",
                 "season": 12,
-                "id": "df380944-ce99-4d7b-82f3-53e81f747912",
+                "gameid": "df380944-ce99-4d7b-82f3-53e81f747912",
                 "isPostseason": true,
                 "map": {
                     "patternName": "lockpickfence",
@@ -1160,7 +1160,7 @@
                 "team2Abbr": "RS",
                 "description": "Game 3, Pseudo Cup",
                 "season": 12,
-                "id": "8ed50ed4-f0df-4c28-b984-5d4448deb5a0",
+                "gameid": "8ed50ed4-f0df-4c28-b984-5d4448deb5a0",
                 "isPostseason": true,
                 "map": {
                     "patternName": "bigsegment",
@@ -1208,7 +1208,7 @@
                 "team2Abbr": "RS",
                 "description": "Game 4, Pseudo Cup",
                 "season": 12,
-                "id": "00637108-23fd-41d5-b32f-957143045864",
+                "gameid": "00637108-23fd-41d5-b32f-957143045864",
                 "isPostseason": true,
                 "map": {
                     "patternName": "nastynonominos",
@@ -1256,7 +1256,7 @@
                 "team2Abbr": "RS",
                 "description": "Game 5, Pseudo Cup",
                 "season": 12,
-                "id": "89253b70-02b6-4553-9ccc-0cd051d08a64",
+                "gameid": "89253b70-02b6-4553-9ccc-0cd051d08a64",
                 "isPostseason": true,
                 "map": {
                     "patternName": "tripledouble",
@@ -1304,7 +1304,7 @@
                 "team2Abbr": "SCS",
                 "description": "Game 6, Pseudo Cup",
                 "season": 12,
-                "id": "7edb48be-6a54-409c-9c5b-ebf66b2f3c89",
+                "gameid": "7edb48be-6a54-409c-9c5b-ebf66b2f3c89",
                 "isPostseason": true,
                 "map": {
                     "patternName": "patiolights",
